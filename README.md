@@ -10,7 +10,6 @@
 Passionate about solving problems through code
 
 [![GitHub followers](https://img.shields.io/github/followers/MKishoreDev?style=for-the-badge&logo=github&color=0EA5E9&labelColor=1e293b)](https://github.com/MKishoreDev)
-[![Contributions](https://img.shields.io/badge/3000+-CONTRIBUTIONS-0EA5E9?style=for-the-badge&labelColor=1e293b)](https://github.com/MKishoreDev)
 [![Profile Views](https://komarev.com/ghpvc/?username=MKishoreDev&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS&labelColor=1e293b)](https://github.com/MKishoreDev)
 [![Active Developer](https://img.shields.io/badge/ACTIVELY-CODING-10B981?style=for-the-badge&labelColor=1e293b)](https://github.com/MKishoreDev)
 
@@ -43,7 +42,7 @@ I'm a 16-year-old developer building the future one line of code at a time. My c
 
 Currently balancing **Class 12th academics** with serious development work, I focus on:
 - Building **open-source projects** that matter
-- Learning **data structure** algorithm
+- Learning **data structures & algorithms**
 - Creating **backend solutions** that perform
 - Contributing to the **developer community**
 
@@ -99,32 +98,30 @@ Currently balancing **Class 12th academics** with serious development work, I fo
 
 ---
 
-## 🎯 Expertise Matrix
-
-<div align="center">
+## 🎯 Skills & Expertise
 
 | Skill | Proficiency | Experience |
 |-------|-------------|-----------|
 | **Python** | ⭐⭐⭐⭐⭐ | 3+ years (Primary language) |
 | **Backend Architecture** | ⭐⭐⭐⭐ | APIs, databases, scaling |
-| **Databases** | ⭐⭐⭐ | PostgreSQL, MySQL, MongoDB, Redis |
-| **JavaScript** | ⭐⭐ | Growing with hands-on projects |
+| **Databases** | ⭐⭐⭐⭐ | PostgreSQL, MySQL, MongoDB, Redis |
+| **JavaScript** | ⭐⭐⭐ | Growing with hands-on projects |
 | **Full-Stack** | ⭐⭐⭐ | Building complete web applications |
 | **DevOps & Deployment** | ⭐⭐⭐⭐ | Vercel, Netlify, Docker |
 | **Git & Collaboration** | ⭐⭐⭐⭐ | Professional workflows |
 
-</div>
-
-> **My Approach:** I build to learn, not to copy. Each project pushes my boundaries and teaches me something new. I&apos;m strongest in **backend & architecture**, currently leveling up **full-stack & system design**.
+> I build to learn, not to copy. Each project pushes my boundaries and teaches me something new.
 
 ---
 
-## 📊 GitHub Activity & Impact
+## 📊 GitHub Statistics
 
 <div align="center">
 
+### Profile Summary
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MKishoreDev&theme=github_dark)
 
+### GitHub Stats
 ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MKishoreDev&theme=github_dark)
 
 ### GitHub Trophies
@@ -133,20 +130,22 @@ Currently balancing **Class 12th academics** with serious development work, I fo
 ### Contribution Streak
 <img src="https://streak-stats.demolab.com?user=MKishoreDev&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 
-### Contribution Timeline
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MKishoreDev&theme=github-dark&hide_border=true&border_radius=10&area=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
+### Activity Timeline
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MKishoreDev&theme=github-dark&hide_border=true&border_radius=10&area=true&custom_title=Contribution+Activity" alt="GitHub Activity Graph" />
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote (Inspiration)
+## 💡 Random Dev Inspiration
 
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
+
+---
 
 ## 🤝 Let&apos;s Collaborate
 
