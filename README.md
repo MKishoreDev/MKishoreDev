@@ -1,143 +1,115 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6cff&height=110&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=818cf8&height=140&section=header&text=Kishore%20M&fontSize=42&fontColor=f0f0f5&fontAlignY=55&animation=fadeIn&desc=Student%20Developer%20%E2%80%94%20Building%20in%20Public&descSize=16&descAlignY=78&descColor=8888a8" />
+# Kishore M
 
-<a href="https://mkishore.is-a.dev" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%86%92%20mkishore.is--a.dev-4f46e5?style=for-the-badge&logoColor=white&labelColor=16161f" alt="Visit Portfolio" />
-</a>
+**Full-stack developer — backends, bots, open-source tools, and web apps, shipping since 2021**
 
-<br /><br />
-
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20OSS-818cf8?style=flat-square&labelColor=16161f" />
-<img src="https://img.shields.io/badge/Location-Tirunelveli%2C%20TN-8888a8?style=flat-square&labelColor=16161f" />
-<img src="https://img.shields.io/badge/Class-12%20CS%20Stream-8888a8?style=flat-square&labelColor=16161f" />
+[![Portfolio](https://img.shields.io/badge/mkishore.is--a.dev-7c6cff?style=for-the-badge&logo=vercel&logoColor=white)](https://mkishore.is-a.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mkishore-dev)
+[![Telegram](https://img.shields.io/badge/Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kishorexdev)
+[![Email](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishoredxd@gmail.com)
 
 </div>
 
 ---
 
-```python
-# kishore@dev ❯
-profile = {
-    "started":  "2021 — Telegram bots during lockdown",
-    "focus":    ["Backend APIs", "Open Source", "Developer Tools"],
-    "stack":    ["Python", "FastAPI", "Flask", "PostgreSQL", "MongoDB", "Redis"],
-    "shipped":  ["KaguneBin", "PretendAI", "Redirox", "SerenaRobot", "2× PyPI SDKs"],
-    "status":   "Building in public · Class 12 boards year · Freelancing",
-}
-```
-
-Started with Telegram bots in 2021 — now building backend APIs, open-source tools, and Python packages that ship to PyPI.
+Started with Telegram bots during the 2021 lockdown. Went deep on backend architecture in 2024.  
+Now building full-stack web apps, Python SDKs, and open-source tools — while finishing Class 12.  
+**Tirunelveli, Tamil Nadu 🇮🇳 · 16 years old · building in public**
 
 ---
 
 ## 04 — Selected Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[KaguneBin](https://github.com/MKishoreDev/KaguneBin)** | Developer pastebin — password-protected, burn-after-read, expiring pastes · [↗ live](https://kagunebin.vercel.app) | `FastAPI` `PostgreSQL` `Neon` `JS` |
-| | `└─ pip install kagunebin` · [pypi.org/project/kagunebin](https://pypi.org/project/kagunebin/) | |
-| **[PretendAI](https://github.com/MKishoreDev/PretendAI)** | Reverse Turing Test — humans act as AI, AI acts as user · [↗ live](https://pretendai.vercel.app) | `Flask` `MongoDB` `Groq` `JS` |
-| **[Redirox](https://github.com/MKishoreDev/Redirox)** | Open-source URL shortener — QR codes, expiry windows, password links · [↗ live](https://redirox.vercel.app) | `Flask` `MongoDB` `Vercel` |
-| | `└─ pip install redirox` · [pypi.org/project/redirox](https://pypi.org/project/redirox/) | |
-| **[SerenaRobot](https://github.com/MKishoreDev/SerenaRobot)** `archived` | Telegram group management bot — 10,000+ groups at peak | `Pyrogram` `Telethon` `Redis` |
+| Project | What it does | Stack | Links |
+|---------|-------------|-------|-------|
+| **[PretendAI](https://github.com/MKishoreDev/PretendAI)** | Reverse Turing Test — humans act as AI, AI acts as users | Flask · MongoDB · Groq · JS · HTML/CSS | [live →](https://pretendai.vercel.app) |
+| **[KaguneBin](https://github.com/MKishoreDev/KaguneBin)** | Developer pastebin — password-protected, burn-after-read, expiring pastes | FastAPI · PostgreSQL · Neon · JS · HTML/CSS | [live →](https://kagunebin.vercel.app) · [![PyPI](https://img.shields.io/pypi/v/kagunebin?color=7c6cff&label=pip&style=flat-square)](https://pypi.org/project/kagunebin) |
+| **[Redirox](https://github.com/MKishoreDev/Redirox)** | Open-source URL shortener — QR codes, expiry windows, password links | Flask · MongoDB · JS · HTML/CSS · Vercel | [live →](https://redirox.vercel.app) · [![PyPI](https://img.shields.io/pypi/v/redirox?color=7c6cff&label=pip&style=flat-square)](https://pypi.org/project/redirox) |
+| **[Vyn Notes](https://github.com/MKishoreDev/Vyn-Notes)** | AI-powered note app — fast capture, clean editing, Groq-assisted refinement | Python · Streamlit · Groq | [live →](https://vyn-notes.streamlit.app) |
+| **[SerenaRobot](https://github.com/MKishoreDev/SerenaRobot)** *(archived)* | Telegram group management bot — 10,000+ groups at peak | Pyrogram · Telethon · PTB · PostgreSQL · MongoDB · Redis | — |
 
-<div align="center">
-
-<br />
-
-*Full stack details, live demos, and the build stories behind each project →*
-
-[![Portfolio](https://img.shields.io/badge/%E2%86%92%20mkishore.is--a.dev-4f46e5?style=for-the-badge&logoColor=white&labelColor=16161f)](https://mkishore.is-a.dev)
-
-</div>
+*Full build stories and live demos → **[mkishore.is-a.dev](https://mkishore.is-a.dev)***
 
 ---
 
 ## 03 — Stack
 
-<div align="center">
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-**Languages**
+### Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pyrogram-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telethon-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-16161f?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-16161f?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-16161f?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-16161f?style=flat-square&logo=css3&logoColor=1572B6)
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black"/>
+</p>
 
-**Backend & APIs**
+### AI & Integrations
+<p>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-16161f?style=flat-square&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-16161f?style=flat-square&logo=flask&logoColor=f0f0f5)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16161f?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-16161f?style=flat-square&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-16161f?style=flat-square&logo=redis&logoColor=FF4438)
-![MySQL](https://img.shields.io/badge/MySQL-16161f?style=flat-square&logo=mysql&logoColor=4479A1)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-16161f?style=flat-square&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-16161f?style=flat-square&logo=linux&logoColor=FCC624)
-![Vercel](https://img.shields.io/badge/Vercel-16161f?style=flat-square&logo=vercel&logoColor=f0f0f5)
-![PyPI](https://img.shields.io/badge/PyPI-16161f?style=flat-square&logo=pypi&logoColor=3775A9)
-
-</div>
+### Tools & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
 ## 06 — Currently Learning
 
-```
-Data Structures & Algorithms  ·  Building Foundations
-  └─ Linked lists, recursion, problem-solving patterns
-
-Automation Testing             ·  Exploring
-  └─ Selenium now, Playwright next
-
-Open Source                    ·  Getting Started
-  └─ Contribution workflows, code review, large-scale project maintenance
-```
+- **Data Structures & Algorithms** — linked lists, recursion, problem-solving patterns
+- **Automation Testing** — Playwright · Selenium
+- **Open Source** — contribution workflows, code review, large-scale project maintenance
 
 ---
 
 ## Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MKishoreDev&theme=github_dark" />
+</p>
 
-![Followers](https://img.shields.io/github/followers/MKishoreDev?style=flat-square&logo=github&labelColor=16161f&color=818cf8&label=Followers)
-![Stars](https://img.shields.io/github/stars/MKishoreDev?style=flat-square&logo=github&labelColor=16161f&color=818cf8&label=Total%20Stars&affiliations=OWNER)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMKishoreDev&query=public_repos&style=flat-square&logo=github&labelColor=16161f&color=818cf8&label=Public%20Repos)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MKishoreDev&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MKishoreDev&theme=github_dark" />
+</p>
 
-<br />
-
-![PyPI kagunebin](https://img.shields.io/pypi/dm/kagunebin?style=flat-square&label=kagunebin%20downloads%2Fmo&labelColor=16161f&color=818cf8)
-![PyPI redirox](https://img.shields.io/pypi/dm/redirox?style=flat-square&label=redirox%20downloads%2Fmo&labelColor=16161f&color=f59e0b)
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kishore--m--dev-0A66C2?style=for-the-badge&logo=linkedin&labelColor=16161f)](https://linkedin.com/in/kishore-m-dev)
-[![Telegram](https://img.shields.io/badge/Telegram-KishoreDxD-26A5E4?style=for-the-badge&logo=telegram&labelColor=16161f)](https://t.me/KishoreDxD)
-[![Gmail](https://img.shields.io/badge/Gmail-kishoredxd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&labelColor=16161f)](mailto:kishoredxd@gmail.com)
-
-</div>
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=MKishoreDev&theme=github-compact&hide_border=true&area=true"/>
+</p>
 
 ---
 
 <div align="center">
 
-<sub>Built with curiosity & caffeine · <a href="https://mkishore.is-a.dev">mkishore.is-a.dev</a></sub>
+*Built with curiosity & caffeine — [mkishore.is-a.dev](https://mkishore.is-a.dev)*
 
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=818cf8&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6cff&height=80&section=footer" width="100%"/>
 
 </div>
