@@ -1,237 +1,145 @@
 <div align="center">
 
-# Hey, I'm Kishore 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=818cf8&height=140&section=header&text=Kishore%20M&fontSize=42&fontColor=f0f0f5&fontAlignY=55&animation=fadeIn&desc=Student%20Developer%20%E2%80%94%20Building%20in%20Public&descSize=16&descAlignY=78&descColor=8888a8" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Student+Developer;Open+Source+Builder;Python+Enthusiast;Building+Things+On+The+Web;Learning+Every+Single+Day" alt="Typing SVG" />
+<a href="https://mkishore.is-a.dev" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%86%92%20mkishore.is--a.dev-4f46e5?style=for-the-badge&logoColor=white&labelColor=16161f" alt="Visit Portfolio" />
+</a>
 
-<br />
+<br /><br />
 
-**16 • Class 12th CS • Tirunelveli, India**
-Passionate about solving problems through code
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20OSS-818cf8?style=flat-square&labelColor=16161f" />
+<img src="https://img.shields.io/badge/Location-Tirunelveli%2C%20TN-8888a8?style=flat-square&labelColor=16161f" />
+<img src="https://img.shields.io/badge/Class-12%20CS%20Stream-8888a8?style=flat-square&labelColor=16161f" />
 
-[![GitHub followers](https://img.shields.io/github/followers/MKishoreDev?style=for-the-badge\&logo=github\&color=0EA5E9\&labelColor=1e293b)](https://github.com/MKishoreDev)
-[![Profile Views](https://komarev.com/ghpvc/?username=MKishoreDev\&style=for-the-badge\&color=0EA5E9\&label=PROFILE+VIEWS\&labelColor=1e293b)](https://github.com/MKishoreDev)
-[![Active Developer](https://img.shields.io/badge/ACTIVELY-CODING-10B981?style=for-the-badge\&labelColor=1e293b)](https://github.com/MKishoreDev)
+</div>
 
-<br />
+---
 
 ```python
-class Developer:
-    def __init__(self):
-        self.name = "Kishore"
-        self.location = "Tirunelveli, TN"
-        self.education = "Class 12 (CS Stream)"
-        self.passion = "Building Open Source"
-
-    def current_focus(self):
-        return ["Student Dev", "Backend Development", "System Design"]
-
-    def languages(self):
-        return {"Python": "⭐⭐⭐⭐⭐", "JavaScript": "⭐⭐⭐"}
-
-kishore = Developer()
+# kishore@dev ❯
+profile = {
+    "started":  "2021 — Telegram bots during lockdown",
+    "focus":    ["Backend APIs", "Open Source", "Developer Tools"],
+    "stack":    ["Python", "FastAPI", "Flask", "PostgreSQL", "MongoDB", "Redis"],
+    "shipped":  ["KaguneBin", "PretendAI", "Redirox", "SerenaRobot", "2× PyPI SDKs"],
+    "status":   "Building in public · Class 12 boards year · Freelancing",
+}
 ```
 
-</div>
+Started with Telegram bots in 2021 — now building backend APIs, open-source tools, and Python packages that ship to PyPI.
 
 ---
 
-## 🚀 About Me
+## 04 — Selected Projects
 
-I'm a 16-year-old developer building the future one line of code at a time. My coding journey started during the 2021 lockdown when I discovered Telegram bots. What began as curiosity quickly became a passion for solving real-world problems through software.
-
-Currently balancing Class 12 academics with development, I focus on:
-
-* Building open-source projects
-* Learning data structures and algorithms
-* Designing scalable backend systems
-* Contributing to developer communities
-* Continuously improving my problem-solving skills
-
-> I'd rather ship one great project than ten mediocre ones.
-
----
-
-## 🛤️ My Journey
-
-<table>
-  <tr>
-    <td width="5%" align="center">📅</td>
-    <td><b>2021</b> — Discovered Telegram bots during lockdown and built my first bot</td>
-  </tr>
-  <tr>
-    <td align="center">📅</td>
-    <td><b>2021–2023</b> — Built Serena, a group management bot and learned programming through hands-on projects</td>
-  </tr>
-  <tr>
-    <td align="center">📅</td>
-    <td><b>2023–2024</b> — Focused on Python fundamentals and software engineering principles</td>
-  </tr>
-  <tr>
-    <td align="center">📅</td>
-    <td><b>2024</b> — Restarted with a quality-over-quantity mindset and began studying architecture patterns</td>
-  </tr>
-  <tr>
-    <td align="center">📅</td>
-    <td><b>2025</b> — Completed 10th board exams and chose the Computer Science stream</td>
-  </tr>
-  <tr>
-    <td align="center">📅</td>
-    <td><b>2026–Now</b> — Building production-ready projects while exploring scalability and system design</td>
-  </tr>
-</table>
-
----
-
-## 💻 Tech Stack
+| Project | What it does | Stack |
+|---|---|---|
+| **[KaguneBin](https://github.com/MKishoreDev/KaguneBin)** | Developer pastebin — password-protected, burn-after-read, expiring pastes · [↗ live](https://kagunebin.vercel.app) | `FastAPI` `PostgreSQL` `Neon` `JS` |
+| | `└─ pip install kagunebin` · [pypi.org/project/kagunebin](https://pypi.org/project/kagunebin/) | |
+| **[PretendAI](https://github.com/MKishoreDev/PretendAI)** | Reverse Turing Test — humans act as AI, AI acts as user · [↗ live](https://pretendai.vercel.app) | `Flask` `MongoDB` `Groq` `JS` |
+| **[Redirox](https://github.com/MKishoreDev/Redirox)** | Open-source URL shortener — QR codes, expiry windows, password links · [↗ live](https://redirox.vercel.app) | `Flask` `MongoDB` `Vercel` |
+| | `└─ pip install redirox` · [pypi.org/project/redirox](https://pypi.org/project/redirox/) | |
+| **[SerenaRobot](https://github.com/MKishoreDev/SerenaRobot)** `archived` | Telegram group management bot — 10,000+ groups at peak | `Pyrogram` `Telethon` `Redis` |
 
 <div align="center">
 
-### Languages
+<br />
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css&perline=4" alt="Languages" />
+*Full stack details, live demos, and the build stories behind each project →*
 
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,mysql,postgres,redis,sqlite&perline=7" alt="Backend" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,docker&perline=6" alt="Tools" />
+[![Portfolio](https://img.shields.io/badge/%E2%86%92%20mkishore.is--a.dev-4f46e5?style=for-the-badge&logoColor=white&labelColor=16161f)](https://mkishore.is-a.dev)
 
 </div>
 
 ---
 
-## 🎯 Skills & Expertise
-
-| Skill               | Proficiency |
-| ------------------- | ----------- |
-| Python              | ⭐⭐⭐⭐⭐       |
-| Backend Development | ⭐⭐⭐⭐        |
-| Database Design     | ⭐⭐⭐⭐        |
-| FastAPI             | ⭐⭐⭐⭐        |
-| JavaScript          | ⭐⭐⭐         |
-| DevOps & Deployment | ⭐⭐⭐⭐        |
-| Git & Collaboration | ⭐⭐⭐⭐        |
-
-> I build to learn, not to copy. Every project teaches something valuable.
-
----
-
-## 📊 GitHub Statistics
+## 03 — Stack
 
 <div align="center">
 
-### Profile Summary
+**Languages**
 
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MKishoreDev\&theme=github_dark)
+![Python](https://img.shields.io/badge/Python-16161f?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-16161f?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-16161f?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-16161f?style=flat-square&logo=css3&logoColor=1572B6)
 
-### GitHub Stats
+**Backend & APIs**
 
-![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MKishoreDev\&theme=github_dark)
+![FastAPI](https://img.shields.io/badge/FastAPI-16161f?style=flat-square&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-16161f?style=flat-square&logo=flask&logoColor=f0f0f5)
 
-### Top Languages
+**Databases**
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MKishoreDev&theme=github_dark&layout=compact&hide_border=true" alt="Top Languages" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16161f?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-16161f?style=flat-square&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-16161f?style=flat-square&logo=redis&logoColor=FF4438)
+![MySQL](https://img.shields.io/badge/MySQL-16161f?style=flat-square&logo=mysql&logoColor=4479A1)
 
-### Contribution Streak
+**Tools**
 
-<img src="https://streak-stats.demolab.com?user=MKishoreDev&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
-
-### Activity Timeline
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MKishoreDev&theme=github-dark&hide_border=true&border_radius=10&area=true&custom_title=Contribution+Activity" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## 💡 Random Dev Inspiration
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
+![Git](https://img.shields.io/badge/Git-16161f?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-16161f?style=flat-square&logo=linux&logoColor=FCC624)
+![Vercel](https://img.shields.io/badge/Vercel-16161f?style=flat-square&logo=vercel&logoColor=f0f0f5)
+![PyPI](https://img.shields.io/badge/PyPI-16161f?style=flat-square&logo=pypi&logoColor=3775A9)
 
 </div>
 
 ---
 
-## 🤝 Let's Collaborate
+## 06 — Currently Learning
 
-I'm always interested in:
+```
+Data Structures & Algorithms  ·  Building Foundations
+  └─ Linked lists, recursion, problem-solving patterns
 
-```text
-✨ Full-stack web applications
-🐍 Python tools and automation
-🚀 Open-source projects
-⚙️ APIs and backend systems
-🔧 System design challenges
-💬 Telegram bot ecosystems
-📱 Developer-focused products
+Automation Testing             ·  Exploring
+  └─ Selenium now, Playwright next
+
+Open Source                    ·  Getting Started
+  └─ Contribution workflows, code review, large-scale project maintenance
 ```
 
-**Open to:** Collaborations • Code Reviews • Learning Opportunities • Open Source Contributions
-
 ---
 
-## 🌐 Connect With Me
+## Stats
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MKishoreDev)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kishoredxd@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/KishoreDxD)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/K4issz.Luv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/kishore-m-dev)
+![Followers](https://img.shields.io/github/followers/MKishoreDev?style=flat-square&logo=github&labelColor=16161f&color=818cf8&label=Followers)
+![Stars](https://img.shields.io/github/stars/MKishoreDev?style=flat-square&logo=github&labelColor=16161f&color=818cf8&label=Total%20Stars&affiliations=OWNER)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMKishoreDev&query=public_repos&style=flat-square&logo=github&labelColor=16161f&color=818cf8&label=Public%20Repos)
+
+<br />
+
+![Commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMKishoreDev&query=public_gists&style=flat-square&label=Gists&labelColor=16161f&color=818cf8)
+![Issues](https://img.shields.io/github/issues-raw/MKishoreDev/KaguneBin?style=flat-square&label=KaguneBin%20Issues&labelColor=16161f&color=22c55e)
+![PyPI kagunebin](https://img.shields.io/pypi/dm/kagunebin?style=flat-square&label=kagunebin%20downloads%2Fmo&labelColor=16161f&color=818cf8)
+![PyPI redirox](https://img.shields.io/pypi/dm/redirox?style=flat-square&label=redirox%20downloads%2Fmo&labelColor=16161f&color=f59e0b)
 
 </div>
 
 ---
 
-## 🧠 My Philosophy
+## Connect
 
-> **"Code is poetry written for machines to execute and humans to understand."**
+<div align="center">
 
-```text
-🎯 Ship > Perfect
-📚 Learn > Know
-🤝 Collaborate > Compete
-🚀 Build > Talk
-💡 Experiment > Fear Failure
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kishore--m--dev-0A66C2?style=for-the-badge&logo=linkedin&labelColor=16161f)](https://linkedin.com/in/kishore-m-dev)
+[![Telegram](https://img.shields.io/badge/Telegram-KishoreDxD-26A5E4?style=for-the-badge&logo=telegram&labelColor=16161f)](https://t.me/KishoreDxD)
+[![Gmail](https://img.shields.io/badge/Gmail-kishoredxd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&labelColor=16161f)](mailto:kishoredxd@gmail.com)
 
-I believe in:
-
-* Writing code that humans can understand
-* Learning continuously
-* Building in public
-* Sharing knowledge
-* Solving meaningful problems
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for Visiting!
+<sub>Built with curiosity & caffeine · <a href="https://mkishore.is-a.dev">mkishore.is-a.dev</a></sub>
 
-```text
-╔══════════════════════════════════════════════════════╗
-║  Made with curiosity, consistency, and learning    ║
-║                    @MKishoreDev                    ║
-║   Always learning. Always building. Always growing.║
-╚══════════════════════════════════════════════════════╝
-```
+<br />
 
-**Last Updated:** May 2026
-**Status:** 🚀 Active & Always Learning
-**Currently:** Building useful projects and exploring scalable systems
-
----
-
-<em>
-Feel free to fork, clone, or get inspired by this README.<br>
-Questions? Reach out — I'd love to connect with fellow developers.
-</em>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=818cf8&height=80&section=footer" />
 
 </div>
