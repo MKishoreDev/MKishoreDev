@@ -3,7 +3,7 @@
 
 # Kishore M
 
-**Full-stack developer — backends, bots, open-source tools, and web apps, shipping since 2021**
+**Full-stack developer — building backends, bots, web apps & open-source tools since 2021**
 
 [![Portfolio](https://img.shields.io/badge/mkishore.is--a.dev-7c6cff?style=for-the-badge&logo=vercel&logoColor=white)](https://mkishore.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mkishore-dev)
@@ -14,9 +14,9 @@
 
 ---
 
-Started with Telegram bots during the 2021 lockdown. Went deep on backend architecture in 2024.  
-Now building full-stack web apps, Python SDKs, and open-source tools — while finishing Class 12.  
-**Tirunelveli, Tamil Nadu 🇮🇳 · 16 years old · building in public**
+Started with Telegram bots during the 2021 lockdown — built one that reached 10,000+ groups.  
+Went deep on backend architecture in 2024. Now shipping full-stack web apps, Python SDKs to PyPI, and open-source tools.  
+**Class 12 · Tirunelveli, Tamil Nadu 🇮🇳 · Building in Public**
 
 ---
 
@@ -24,11 +24,11 @@ Now building full-stack web apps, Python SDKs, and open-source tools — while f
 
 | Project | What it does | Stack | Links |
 |---------|-------------|-------|-------|
-| **[PretendAI](https://github.com/MKishoreDev/PretendAI)** | Reverse Turing Test — humans act as AI, AI acts as users | Flask · MongoDB · Groq · JS · HTML/CSS | [live →](https://pretendai.vercel.app) |
-| **[KaguneBin](https://github.com/MKishoreDev/KaguneBin)** | Developer pastebin — password-protected, burn-after-read, expiring pastes | FastAPI · PostgreSQL · Neon · JS · HTML/CSS | [live →](https://kagunebin.vercel.app) · [![PyPI](https://img.shields.io/pypi/v/kagunebin?color=7c6cff&label=pip&style=flat-square)](https://pypi.org/project/kagunebin) |
-| **[Redirox](https://github.com/MKishoreDev/Redirox)** | Open-source URL shortener — QR codes, expiry windows, password links | Flask · MongoDB · JS · HTML/CSS · Vercel | [live →](https://redirox.vercel.app) · [![PyPI](https://img.shields.io/pypi/v/redirox?color=7c6cff&label=pip&style=flat-square)](https://pypi.org/project/redirox) |
-| **[Vyn Notes](https://github.com/MKishoreDev/Vyn-Notes)** | AI-powered note app — fast capture, clean editing, Groq-assisted refinement | Python · Streamlit · Groq | [live →](https://vyn-notes.streamlit.app) |
-| **[SerenaRobot](https://github.com/MKishoreDev/SerenaRobot)** *(archived)* | Telegram group management bot — 10,000+ groups at peak | Pyrogram · Telethon · PTB · PostgreSQL · MongoDB · Redis | — |
+| **[PretendAI](https://github.com/MKishoreDev/PretendAI)** | Reverse Turing Test — humans act as AI, AI acts as users | Flask · MongoDB · Groq · JS · HTML/CSS · Vercel | [live →](https://pretendai.vercel.app) |
+| **[KaguneBin](https://github.com/MKishoreDev/KaguneBin)** | Developer pastebin — password-protected, burn-after-read, expiring pastes | FastAPI · PostgreSQL · Neon · JS · HTML/CSS · Vercel | [live →](https://kagunebin.vercel.app) · [![PyPI](https://img.shields.io/pypi/v/kagunebin?color=7c6cff&label=pip&style=flat-square)](https://pypi.org/project/kagunebin) |
+| **[Redirox](https://github.com/MKishoreDev/Redirox)** | Open-source URL shortener — QR codes, expiry windows, password links + Python SDK | Flask · MongoDB · JS · HTML/CSS · Vercel | [live →](https://redirox.vercel.app) · [![PyPI](https://img.shields.io/pypi/v/redirox?color=7c6cff&label=pip&style=flat-square)](https://pypi.org/project/redirox) |
+| **[Vyn Notes](https://github.com/MKishoreDev/Vyn-Notes)** | AI-powered note app — fast capture, Groq-assisted refinement | Streamlit · Groq · Python | [live →](https://vyn-notes.streamlit.app) |
+| **[SerenaRobot](https://github.com/MKishoreDev/SerenaRobot)** *(archived)* | Telegram group management bot — 10,000+ groups at peak | Pyrogram · Telethon · PTB · PostgreSQL · MongoDB · Redis | [repo →](https://github.com/MKishoreDev/SerenaRobot) |
 
 *Full build stories and live demos → **[mkishore.is-a.dev](https://mkishore.is-a.dev)***
 
@@ -51,6 +51,7 @@ Now building full-stack web apps, Python SDKs, and open-source tools — while f
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pyrogram-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telethon-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### Databases
@@ -66,7 +67,6 @@ Now building full-stack web apps, Python SDKs, and open-source tools — while f
 <p>
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telegram_Bot_API-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### Tools & Deployment
@@ -81,11 +81,24 @@ Now building full-stack web apps, Python SDKs, and open-source tools — while f
 
 ---
 
+## 05 — Journey
+
+```
+2021        Discovered Telegram bots during lockdown — first automation script
+2021–2023   Built SerenaRobot — group management bot that scaled to 10,000+ groups
+2023–2024   Deep dive into Python fundamentals, databases, software engineering principles  
+2024        Quality shift — focused on backend architecture, APIs, and system design
+2025        Passed 10th boards — chose Computer Science stream
+2026–Now    Building full-stack apps, SDKs, and open-source tools in public
+```
+
+---
+
 ## 06 — Currently Learning
 
-- **Data Structures & Algorithms** — linked lists, recursion, problem-solving patterns
-- **Automation Testing** — Playwright · Selenium
-- **Open Source** — contribution workflows, code review, large-scale project maintenance
+- **Data Structures & Algorithms** — trees, graphs, dynamic programming — 52% in
+- **Automation Testing** — Selenium & Playwright — making sure code breaks before users do
+- **Open Source at Scale** — contribution workflows, code review, maintaining public projects
 
 ---
 
