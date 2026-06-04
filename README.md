@@ -113,8 +113,6 @@ Open Source                    ·  Getting Started
 
 <br />
 
-![Commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMKishoreDev&query=public_gists&style=flat-square&label=Gists&labelColor=16161f&color=818cf8)
-![Issues](https://img.shields.io/github/issues-raw/MKishoreDev/KaguneBin?style=flat-square&label=KaguneBin%20Issues&labelColor=16161f&color=22c55e)
 ![PyPI kagunebin](https://img.shields.io/pypi/dm/kagunebin?style=flat-square&label=kagunebin%20downloads%2Fmo&labelColor=16161f&color=818cf8)
 ![PyPI redirox](https://img.shields.io/pypi/dm/redirox?style=flat-square&label=redirox%20downloads%2Fmo&labelColor=16161f&color=f59e0b)
 
