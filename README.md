@@ -96,9 +96,9 @@ Went deep on backend architecture in 2024. Now shipping full-stack web apps, Pyt
 
 ## 06 — Currently Learning
 
-- **Data Structures & Algorithms** — trees, graphs, dynamic programming — 52% in
-- **Automation Testing** — Selenium & Playwright — making sure code breaks before users do
-- **Open Source at Scale** — contribution workflows, code review, maintaining public projects
+- **Data Structures & Algorithms** — strengthening fundamentals through problem solving
+- **Automation Testing** — exploring Selenium and Playwright
+- **Open Source at Scale** — learning contribution workflows and project maintenance
 
 ---
 
