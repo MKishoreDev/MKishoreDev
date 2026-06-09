@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://t.me/kishorexdev">
+<a href="https://t.me/kishoredxd">
   <img src="https://img.shields.io/badge/Telegram-5B4BDB?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
