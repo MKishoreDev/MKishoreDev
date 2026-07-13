@@ -42,16 +42,16 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#1099c9f</text>
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#28791a8</text>
       
       <!-- repo chip -->
       <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[MKishoreDev]</text>
       
       <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">v2: clean README, remove non-functional CSS, fix banner cursor, update docs</text>
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">v2</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">12m ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">just now</text>
     </g>
 
     <g transform="translate(60, 106)">
@@ -60,16 +60,16 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#7d147f7</text>
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#b59c3e9</text>
       
       <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[MKishoreDev]</text>
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[AgoraNet-Donat...</text>
       
       <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">merge: resolve conflicts in auto-generated assets</text>
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Update README.md</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">28m ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">1d ago</text>
     </g>
 
     <g transform="translate(60, 132)">
@@ -78,16 +78,16 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#7534602</text>
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#87ea9fc</text>
       
       <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[MKishoreDev]</text>
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[Hottie-X-Music]</text>
       
       <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat: add shimmer animations, accessibility, clickable commits, hover effect</text>
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Revise README for archival and deployment details</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">30m ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">7d ago</text>
     </g>
 
     <g transform="translate(60, 158)">
@@ -96,16 +96,16 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#b4c15cc</text>
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#24bf982</text>
       
       <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[MKishoreDev]</text>
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[en-peyar]</text>
       
       <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat: enhance blog and commit SVGs with shimmer effect and accessibility imp</text>
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Merge pull request #8 from MKishoreDev/renovate/python-dotenv-1.x</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">40m ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">8d ago</text>
     </g>
 
     <g transform="translate(60, 184)">
@@ -114,16 +114,16 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0"/>
       
       <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#a21d586</text>
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#8f2f0cc</text>
       
       <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[MKishoreDev]</text>
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[en-peyar]</text>
       
       <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Enhance SVG assets with shimmer effect and update commit display</text>
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Refactor active navbar indicator underlines to update dynamically after i18n</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">56m ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">8d ago</text>
     </g>
 
   <!-- mini terminal command display -->
