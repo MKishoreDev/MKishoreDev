@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="78">the more varieties of different kinds of notations are still useful —</tspan><tspan x="600" y="102">don’t only read the people who code like you.</tspan>
+    <tspan x="600" y="88">the only sin is to make a choice without knowing you are making one.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── donald knuth ──
+    ── jonathan shewchuk ──
   </text>
 </svg>
