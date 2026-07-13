@@ -1,0 +1,51 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:     # Allows manual triggers
+  push:
+    paths:
+      - .github/scripts/update-quote.py
+      - .github/scripts/update-commits.py
+      - .github/scripts/update-blogs.py
+      - .github/scripts/update-banner.py
+      - .github/workflows/update-profile.yml
+
+permissions:
+  contents: write        # Crucial: grants the action write access to your repo
+
+concurrency:
+  group: refresh-profile
+  cancel-in-progress: true
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Bring the repository files into the runner
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 2. Set up Python environment
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # 3. Run automation scripts
+      - name: Generate Dynamic Content
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python .github/scripts/update-quote.py
+          python .github/scripts/update-commits.py
+          python .github/scripts/update-blogs.py
+          python .github/scripts/update-banner.py
+
+      # 4. Commit and push the changes back to your profile
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: automated profile update [skip ci]"
+          branch: main

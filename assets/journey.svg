@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Journey timeline: 2021 to 2026">
+  <!--
+    journey.svg · a horizontal timeline that reads as one line of code.
+    Every milestone is a node on a gradient rail; the current year pulses.
+  -->
+  <defs>
+    <linearGradient id="jbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#0a0612"/>
+      <stop offset="100%" stop-color="#0c0717"/>
+    </linearGradient>
+    <linearGradient id="rail" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#432874" stop-opacity="0"/>
+      <stop offset="8%"   stop-color="#6d5df6" stop-opacity="1"/>
+      <stop offset="50%"  stop-color="#a78bfa" stop-opacity="1"/>
+      <stop offset="92%"  stop-color="#e8d5b7" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="node" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#f5e6d3"/>
+      <stop offset="60%"  stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#432874" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a78bfa" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <symbol id="milestone" overflow="visible">
+      <circle r="10" fill="url(#node)" opacity="0.35"/>
+      <circle r="4"  fill="#e8d5b7"/>
+    </symbol>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#jbg)"/>
+  <rect width="1200" height="260" fill="url(#shimmer)" pointer-events="none">
+    <animate attributeName="x" values="-1200;1200" dur="4s" repeatCount="indefinite" begin="0.6s"/>
+  </rect>
+
+  <!-- section label -->
+  <text x="60" y="42" font-family="ui-monospace,monospace" font-size="11" letter-spacing="3" fill="#8a7a9d">
+    02 · JOURNEY  ── five years, one commit at a time
+  </text>
+
+  <!-- rail -->
+  <line x1="80" y1="130" x2="1120" y2="130" stroke="url(#rail)" stroke-width="2.5" opacity="0.9"/>
+  <line x1="80" y1="130" x2="1120" y2="130" stroke="url(#rail)" stroke-width="6" opacity="0.15"/>
+
+  <!-- year ticks -->
+  <g font-family="ui-monospace,monospace" font-size="12" fill="#c9b8d9" text-anchor="middle">
+    <g transform="translate(140 130)">
+      <use href="#milestone"/>
+      <text y="-24" fill="#e8d5b7">2021</text>
+      <text y="34" font-size="10.5" fill="#8a7a9d">first Telegram bot</text>
+      <text y="50" font-size="10.5" fill="#8a7a9d">during lockdown</text>
+    </g>
+    <g transform="translate(340 130)">
+      <use href="#milestone"/>
+      <text y="-24" fill="#e8d5b7">2021 – 2023</text>
+      <text y="34" font-size="10.5" fill="#8a7a9d">SerenaRobot →</text>
+      <text y="50" font-size="10.5" fill="#a78bfa">10,000+ groups</text>
+    </g>
+    <g transform="translate(560 130)">
+      <use href="#milestone"/>
+      <text y="-24" fill="#e8d5b7">2023 – 2024</text>
+      <text y="34" font-size="10.5" fill="#8a7a9d">Python · databases</text>
+      <text y="50" font-size="10.5" fill="#8a7a9d">software engineering</text>
+    </g>
+    <g transform="translate(760 130)">
+      <use href="#milestone"/>
+      <text y="-24" fill="#e8d5b7">2024</text>
+      <text y="34" font-size="10.5" fill="#8a7a9d">backend architecture</text>
+      <text y="50" font-size="10.5" fill="#8a7a9d">&amp; APIs</text>
+    </g>
+    <g transform="translate(940 130)">
+      <use href="#milestone"/>
+      <text y="-24" fill="#e8d5b7">2025</text>
+      <text y="34" font-size="10.5" fill="#8a7a9d">Computer Science</text>
+      <text y="50" font-size="10.5" fill="#8a7a9d">stream · Class 11 →12</text>
+    </g>
+    <!-- current node pulses -->
+    <g transform="translate(1080 130)">
+      <circle r="14" fill="#a78bfa" opacity="0.25">
+        <animate attributeName="r"       values="10;18;10" dur="3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.35;0.05;0.35" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <use href="#milestone"/>
+      <text y="-24" fill="#f5e6d3">2026 →</text>
+      <text y="34" font-size="10.5" fill="#a78bfa">full-stack · SDKs</text>
+      <text y="50" font-size="10.5" fill="#8a7a9d">OSS · in public</text>
+    </g>
+  </g>
+
+  <!-- terminal footer -->
+  <g transform="translate(60 232)">
+    <text font-family="ui-monospace,monospace" font-size="10.5" fill="#6d5da8" letter-spacing="1.5">
+      <tspan fill="#a78bfa">$</tspan> git log --since=2021 --pretty=oneline
+    </text>
+    <rect x="352" y="-8" width="6" height="10" fill="#e8d5b7">
+      <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

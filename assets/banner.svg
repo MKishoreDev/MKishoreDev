@@ -1,0 +1,330 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Kishore M — student developer, building in the quiet hours">
+  <!--
+    banner.svg · MKishoreDev
+    A late-night lo-fi coding scene. All colors, gradients, and reusable
+    motifs live in <defs> so this file is easy to re-theme by editing one place.
+    Palette tokens (kept in sync with divider.svg / footer.svg):
+      ink     #07040d   deep midnight
+      surface #0c0717   panel
+      violet  #a78bfa   primary accent
+      indigo  #6d5df6   secondary accent
+      plum    #432874   muted surface
+      warm    #e8d5b7   lamp / paper
+      moon    #f5e6d3   moonlight / highlight
+      blush   #e85d75   cat nose / ears
+      dim     #8a7a9d   secondary text
+  -->
+  <defs>
+    <!-- ── colour + light tokens ─────────────────────────────────────── -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07040d"/>
+      <stop offset="55%" stop-color="#0c0717"/>
+      <stop offset="100%" stop-color="#140b24"/>
+    </linearGradient>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#110a24"/>
+      <stop offset="60%" stop-color="#1b0f38"/>
+      <stop offset="100%" stop-color="#2d194f"/>
+    </linearGradient>
+    <radialGradient id="lamp" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#fddfa7" stop-opacity="0.45"/>
+      <stop offset="35%" stop-color="#e8d5b7" stop-opacity="0.20"/>
+      <stop offset="70%" stop-color="#a78bfa" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#f5e6d3" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#e8d5b7" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#1b0f38" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.30"/>
+      <stop offset="60%" stop-color="#6d5df6" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#07040d" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="cloud" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e8d5b7" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0.02"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.2"/>
+    </filter>
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a78bfa" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa">
+        <animate attributeName="stop-color" values="#a78bfa;#6d5df6;#a78bfa" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#6d5df6">
+        <animate attributeName="stop-color" values="#6d5df6;#e8d5b7;#6d5df6" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#e8d5b7">
+        <animate attributeName="stop-color" values="#e8d5b7;#a78bfa;#e8d5b7" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- ── reusable rain drop (symbolic, translated on use) ──────────── -->
+    <symbol id="drop" overflow="visible">
+      <line x1="0" y1="0" x2="-5" y2="14"
+            stroke="#a78bfa" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+    </symbol>
+
+    <!-- ── reusable twinkling star ───────────────────────────────────── -->
+    <symbol id="star" overflow="visible">
+      <circle r="1" fill="#e8d5b7"/>
+    </symbol>
+  </defs>
+
+  <!-- ── canvas ─────────────────────────────────────────────────────── -->
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#shimmer)" pointer-events="none">
+    <animate attributeName="x" values="-1200;1200" dur="4s" repeatCount="indefinite" begin="0s"/>
+  </rect>
+
+  <!-- ── background HUD grid (very quiet) ───────────────────────────── -->
+  <g stroke="#3a225c" stroke-width="0.5" opacity="0.07" pointer-events="none">
+    <path d="M100 0v340M200 0v340M300 0v340M400 0v340M500 0v340M600 0v340M700 0v340M800 0v340M900 0v340M1000 0v340M1100 0v340"/>
+    <path d="M0 50h1200M0 100h1200M0 150h1200M0 200h1200M0 250h1200M0 300h1200"/>
+  </g>
+
+  <!-- gentle ambient waveform behind text -->
+  <path fill="none" stroke="#a78bfa" stroke-width="0.75" opacity="0.14"
+        d="M 40 168 Q 200 128 360 168 T 660 168">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M 40 168 Q 200 128 360 168 T 660 168;
+              M 40 168 Q 200 208 360 168 T 660 168;
+              M 40 168 Q 200 128 360 168 T 660 168"/>
+  </path>
+
+  <!-- ═══════════════════════ WINDOW SCENE ═══════════════════════════ -->
+  <g id="window">
+    <rect x="720" y="30" width="400" height="210" rx="12" fill="url(#sky)"/>
+
+    <!-- twinkling stars via <symbol> -->
+    <g>
+      <use href="#star" x="750"  y="65" ><animate attributeName="opacity" values="0.2;1;0.2" dur="3s"   repeatCount="indefinite"/></use>
+      <use href="#star" x="830"  y="50" ><animate attributeName="opacity" values="0.3;1;0.3" dur="4.2s" repeatCount="indefinite"/></use>
+      <use href="#star" x="910"  y="80" ><animate attributeName="opacity" values="0.1;.9;.1" dur="2.5s" repeatCount="indefinite"/></use>
+      <use href="#star" x="980"  y="60" ><animate attributeName="opacity" values="0.4;1;0.4" dur="3.7s" repeatCount="indefinite"/></use>
+      <use href="#star" x="1060" y="90" ><animate attributeName="opacity" values="0.2;1;0.2" dur="5s"   repeatCount="indefinite"/></use>
+      <use href="#star" x="1100" y="45" ><animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/></use>
+    </g>
+
+    <!-- crescent moon -->
+    <g transform="translate(860 80)">
+      <circle r="40" fill="url(#moonGlow)"/>
+      <path d="M-15 -15 A22 22 0 1 0 15 15 A18 18 0 1 1 -15 -15 Z" fill="#f5e6d3" opacity="0.9"/>
+    </g>
+
+    <!-- clouds -->
+    <path d="M 720 140 Q 770 120 820 135 Q 870 150 920 135 L 920 240 L 720 240 Z" fill="url(#cloud)"/>
+    <path d="M 900 160 Q 950 145 1000 155 Q 1050 165 1120 150 L 1120 240 L 900 240 Z" fill="url(#cloud)" opacity="0.7"/>
+
+    <!-- rooftops -->
+    <path d="M 720 220 Q 800 205 880 222 T 1040 215 T 1120 225 L 1120 240 L 720 240 Z" fill="#08050e"/>
+
+    <!-- rain (reusable <symbol>, animated on group) -->
+    <g pointer-events="none">
+      <g><use href="#drop" x="800" y="40">
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; -30 170" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.6;0" dur="2.4s" repeatCount="indefinite"/>
+      </use></g>
+      <g><use href="#drop" x="960" y="35">
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; -30 180" dur="2.9s" repeatCount="indefinite" begin="0.6s"/>
+        <animate attributeName="opacity" values="0;0.55;0" dur="2.9s" repeatCount="indefinite" begin="0.6s"/>
+      </use></g>
+      <g><use href="#drop" x="1075" y="50">
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; -35 165" dur="2.1s" repeatCount="indefinite" begin="0.3s"/>
+        <animate attributeName="opacity" values="0;0.65;0" dur="2.1s" repeatCount="indefinite" begin="0.3s"/>
+      </use></g>
+      <g><use href="#drop" x="880" y="30">
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; -30 200" dur="3.2s" repeatCount="indefinite" begin="1.2s"/>
+        <animate attributeName="opacity" values="0;0.5;0" dur="3.2s" repeatCount="indefinite" begin="1.2s"/>
+      </use></g>
+    </g>
+
+    <!-- window frame + mullions -->
+    <rect x="720" y="30" width="400" height="210" rx="12" fill="none" stroke="#1d1130" stroke-width="8"/>
+    <line x1="920" y1="30"  x2="920"  y2="240" stroke="#1d1130" stroke-width="4"/>
+    <line x1="720" y1="125" x2="1120" y2="125" stroke="#1d1130" stroke-width="4"/>
+  </g>
+
+  <!-- ═══════════════════════ DESK ═══════════════════════════════════ -->
+  <rect x="0" y="240" width="1200" height="100" fill="#050308"/>
+  <rect x="0" y="240" width="1200" height="4"   fill="#201333"/>
+
+  <!-- ── warm desk lamp ─────────────────────────────────────────────── -->
+  <g id="desk-lamp">
+    <path d="M 1030 250 L 1070 250 L 1050 242 Z" fill="#140b24" stroke="#362057" stroke-width="1.5"/>
+    <path d="M 1050 242 Q 1060 170 1000 150" fill="none" stroke="#362057" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M 980 135 C 975 145 990 162 1005 158 L 1012 142 Z"
+          fill="#140b24" stroke="#362057" stroke-width="1.5" transform="rotate(-15 996 150)"/>
+    <circle cx="994" cy="154" r="6" fill="#f5e6d3" filter="url(#soft)"/>
+    <polygon points="994,154 750,285 1100,285" fill="url(#lamp)" opacity="0.9"
+             pointer-events="none">
+      <animate attributeName="opacity" values="0.82;0.96;0.82" dur="4.5s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+
+  <!-- ── laptop ────────────────────────────────────────────────────── -->
+  <g id="laptop" transform="translate(740 168)">
+    <rect x="10" y="0"  width="110" height="74" rx="6" fill="#110a21" stroke="#362057" stroke-width="2"/>
+    <rect x="15" y="5"  width="100" height="64" rx="3" fill="#07040d"/>
+    <rect x="15" y="5"  width="100" height="64" rx="3" fill="url(#screen)"/>
+    <g stroke-linecap="round">
+      <line x1="25" y1="15" x2="60" y2="15" stroke="#a78bfa" stroke-width="3"/>
+      <line x1="25" y1="23" x2="85" y2="23" stroke="#e8d5b7" stroke-width="3"/>
+      <line x1="25" y1="31" x2="45" y2="31" stroke="#6d5df6" stroke-width="3"/>
+      <line x1="25" y1="39" x2="70" y2="39" stroke="#a78bfa" stroke-width="3"/>
+      <line x1="25" y1="47" x2="90" y2="47" stroke="#e8d5b7" stroke-width="3"/>
+      <line x1="25" y1="55" x2="55" y2="55" stroke="#6d5df6" stroke-width="3"/>
+    </g>
+    <rect x="35" y="72" width="60" height="4" fill="#1c1130"/>
+    <path d="M 0 78 L 130 78 L 120 84 L 10 84 Z" fill="#140b24" stroke="#362057" stroke-width="1.5"/>
+  </g>
+
+  <!-- ── coffee mug with drifting steam ─────────────────────────────── -->
+  <g id="mug" transform="translate(880 220)">
+    <ellipse cx="12" cy="18" rx="14" ry="4" fill="#0a0612" opacity="0.8"/>
+    <rect x="2" y="2" width="20" height="16" rx="3" fill="#1c1130" stroke="#a78bfa" stroke-width="1"/>
+    <path d="M 2 5 Q -4 6 -4 10 Q -4 14 2 15" fill="none" stroke="#a78bfa" stroke-width="1"/>
+    <ellipse cx="12" cy="2" rx="9" ry="2" fill="#432874"/>
+    <path d="M 8 -2 Q 5 -12 11 -20 T 8 -30" fill="none" stroke="#e8d5b7" stroke-width="1.2" stroke-linecap="round" opacity="0">
+      <animate attributeName="opacity" values="0;0.5;0" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="d" values="M 8 -2 Q 5 -12 11 -20 T 8 -30; M 9 -2 Q 11 -10 6 -22 T 11 -32" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 15 -2 Q 18 -10 13 -18 T 16 -28" fill="none" stroke="#e8d5b7" stroke-width="1.2" stroke-linecap="round" opacity="0">
+      <animate attributeName="opacity" values="0;0.4;0" dur="3.5s" repeatCount="indefinite" begin="1.5s"/>
+      <animate attributeName="d" values="M 15 -2 Q 18 -10 13 -18 T 16 -28; M 14 -2 Q 12 -12 18 -20 T 14 -30" dur="3.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- ═══════════════════════ PIXEL BLACK CAT ═══════════════════════ -->
+  <!-- Wrapped in a group so the whole cat "breathes" with a tiny vertical scale. -->
+  <g id="cat" transform="translate(945 180)">
+    <g transform-origin="42px 62px">
+      <animateTransform attributeName="transform" type="scale"
+        values="1 1; 1 1.015; 1 1" dur="3.6s" repeatCount="indefinite"/>
+
+      <!-- body (unchanged proportions, kept 3.5px pixel unit) -->
+      <g fill="#07040d">
+        <rect x="10.5" y="0" width="3.5" height="3.5"/><rect x="31.5" y="0" width="3.5" height="3.5"/>
+        <rect x="7"   y="3.5" width="3.5" height="3.5"/><rect x="14" y="3.5" width="3.5" height="3.5"/>
+        <rect x="28"  y="3.5" width="3.5" height="3.5"/><rect x="35" y="3.5" width="3.5" height="3.5"/>
+        <rect x="7"   y="7"    width="31.5" height="3.5"/>
+        <rect x="7"   y="10.5" width="31.5" height="3.5"/>
+        <rect x="7"   y="14"   width="7"    height="3.5"/>
+        <rect x="17.5" y="14"  width="10.5" height="3.5"/>
+        <rect x="31.5" y="14"  width="7"    height="3.5"/>
+        <rect x="7"    y="17.5" width="14"  height="3.5"/>
+        <rect x="24.5" y="17.5" width="14"  height="3.5"/>
+        <rect x="10.5" y="21"   width="24.5" height="3.5"/>
+        <rect x="24.5" y="24.5" width="10.5" height="3.5"/>
+        <rect x="28"   y="28"   width="10.5" height="3.5"/>
+        <rect x="35"   y="31.5" width="28"   height="3.5"/>
+        <rect x="35"   y="35"   width="35"   height="3.5"/>
+        <rect x="38.5" y="38.5" width="35"   height="3.5"/>
+        <rect x="42"   y="42"   width="28"   height="3.5"/>
+        <rect x="45.5" y="45.5" width="21"   height="3.5"/>
+        <!-- legs -->
+        <rect x="45.5" y="49"   width="3.5" height="3.5"/><rect x="45.5" y="52.5" width="3.5" height="3.5"/><rect x="45.5" y="56" width="3.5" height="3.5"/><rect x="42" y="59.5" width="7" height="3.5"/>
+        <rect x="56"   y="49"   width="3.5" height="3.5"/><rect x="56"   y="52.5" width="3.5" height="3.5"/><rect x="56"   y="56" width="3.5" height="3.5"/><rect x="56" y="59.5" width="7" height="3.5"/>
+        <rect x="66.5" y="49"   width="3.5" height="3.5"/><rect x="66.5" y="52.5" width="3.5" height="3.5"/><rect x="66.5" y="56" width="3.5" height="3.5"/><rect x="66.5" y="59.5" width="7" height="3.5"/>
+        <rect x="77"   y="49"   width="3.5" height="3.5"/><rect x="77"   y="52.5" width="3.5" height="3.5"/><rect x="77"   y="56" width="3.5" height="3.5"/><rect x="77" y="59.5" width="7" height="3.5"/>
+      </g>
+
+      <!-- inner ears + nose (blush accent) -->
+      <g fill="#e85d75">
+        <rect x="10.5" y="3.5" width="3.5" height="3.5"/>
+        <rect x="31.5" y="3.5" width="3.5" height="3.5"/>
+        <rect x="21"   y="17.5" width="3.5" height="3.5"/>
+      </g>
+
+      <!-- ── eyes (blink on interval) ─────────────────────────────── -->
+      <g fill="#fddfa7">
+        <rect x="14" y="14" width="3.5" height="3.5">
+          <animate attributeName="height" values="3.5;3.5;3.5;0.6;3.5" keyTimes="0;0.6;0.9;0.95;1" dur="5s" repeatCount="indefinite"/>
+          <animate attributeName="y"      values="14;14;14;15.7;14"    keyTimes="0;0.6;0.9;0.95;1" dur="5s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="28" y="14" width="3.5" height="3.5">
+          <animate attributeName="height" values="3.5;3.5;3.5;0.6;3.5" keyTimes="0;0.6;0.9;0.95;1" dur="5s" repeatCount="indefinite"/>
+          <animate attributeName="y"      values="14;14;14;15.7;14"    keyTimes="0;0.6;0.9;0.95;1" dur="5s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <!-- ── tail (gentle wag, unchanged pixels) ──────────────────── -->
+      <g transform="translate(70 35)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate"
+            values="0; 12; -8; 0" dur="2.4s" repeatCount="indefinite"/>
+          <g fill="#07040d">
+            <rect x="3.5"  y="-3.5"  width="3.5" height="3.5"/>
+            <rect x="7"    y="-7"    width="3.5" height="3.5"/>
+            <rect x="10.5" y="-10.5" width="3.5" height="3.5"/>
+            <rect x="10.5" y="-14"   width="3.5" height="3.5"/>
+            <rect x="10.5" y="-17.5" width="3.5" height="3.5"/>
+            <rect x="10.5" y="-21"   width="3.5" height="3.5"/>
+            <rect x="7"    y="-24.5" width="3.5" height="3.5"/>
+            <rect x="3.5"  y="-28"   width="3.5" height="3.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- ── ambient dust in lamp cone ──────────────────────────────────── -->
+  <g fill="#fddfa7">
+    <circle cx="940"  cy="180" r="1"   opacity="0.6"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="900"  cy="205" r="1.2" opacity="0.4"><animate attributeName="opacity" values="0.1;0.6;0.1" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="975"  cy="195" r="0.8" opacity="0.5"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1025" cy="210" r="1"   opacity="0.7"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4s"   repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- ═══════════════════════ TYPOGRAPHY ═════════════════════════════ -->
+  <g transform="translate(70 110)">
+    <text x="0" y="0" font-family="ui-monospace, 'SF Mono', Menlo, monospace"
+          font-size="12" fill="#a78bfa" letter-spacing="3" opacity="0.85">
+      ~/kishore ⌁ local_time
+    </text>
+
+    <text x="0" y="55" font-family="'Lora', 'Georgia', 'Times New Roman', serif"
+          font-size="60" font-weight="400" fill="url(#nameGrad)" letter-spacing="-1">
+      Kishore <tspan font-style="italic" fill="url(#nameGrad)">M</tspan>
+    </text>
+
+    <text x="0" y="90" font-family="ui-monospace, 'SF Mono', Menlo, monospace"
+          font-size="13" fill="#8a7a9d" letter-spacing="1.5">
+      student · backend developer · building in the quiet hours
+    </text>
+
+    <!-- terminal chip -->
+    <g transform="translate(0 115)">
+      <path d="M -10 -5 L -10 -15 L 10 -15"  fill="none" stroke="#362057" stroke-width="1.5" opacity="0.6"/>
+      <path d="M 385 -5 L 385 -15 L 365 -15" fill="none" stroke="#362057" stroke-width="1.5" opacity="0.6"/>
+      <path d="M -10 15 L -10 25 L 10 25"    fill="none" stroke="#362057" stroke-width="1.5" opacity="0.6"/>
+      <path d="M 385 15 L 385 25 L 365 25"   fill="none" stroke="#362057" stroke-width="1.5" opacity="0.6"/>
+      <rect x="-2" y="-15" width="375" height="24" fill="#0a0612" stroke="#2c1a4d" stroke-width="1.2" rx="4"/>
+      <text x="10" y="1" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="11.5" fill="#e8d5b7">
+        <tspan fill="#a78bfa">$</tspan> cat whoami.txt --since-2021
+      </text>
+      <rect x="200" y="-10" width="6.5" height="13" fill="#e8d5b7">
+        <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- ── corner HUD ─────────────────────────────────────────────────── -->
+  <g opacity="0.75" font-family="ui-monospace, monospace" font-size="9.5" fill="#3a225c">
+    <text x="24"   y="30"  letter-spacing="1.5">01 · DEVSHELL_HUD</text>
+    <text x="1176" y="16"  text-anchor="end" letter-spacing="1.5">MMXXVI · 13 Jul 2026 · 21:55 IST</text>
+    <text x="24"   y="325" letter-spacing="2.5">MKISHORE.IS-A.DEV</text>
+    <text x="1176" y="325" text-anchor="end" letter-spacing="2">✦  BUILDING IN PUBLIC  ✦</text>
+  </g>
+</svg>
