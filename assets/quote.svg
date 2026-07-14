@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">it should be noted that no ethically-trained software engineer would</tspan><tspan x="600" y="92">ever consent to write a destroybaghdad procedure. basic professional</tspan><tspan x="600" y="116">ethics would instead require him to write a destroycity procedure, to…</tspan>
+    <tspan x="600" y="68">the programs we use to conjure processes are like a sorcerer&apos;s spells.</tspan><tspan x="600" y="92">they are carefully composed from symbolic expressions in arcane and</tspan><tspan x="600" y="116">esoteric programming languages that prescribe the tasks we want our…</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── nathaniel borenstein ──
+    ── hal abelson ──
   </text>
 </svg>
