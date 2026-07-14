@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="88">the only sin is to make a choice without knowing you are making one.</tspan>
+    <tspan x="600" y="78">young man, in mathematics you don&apos;t understand things. you just get used</tspan><tspan x="600" y="102">to them.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── jonathan shewchuk ──
+    ── john von neumann ──
   </text>
 </svg>
