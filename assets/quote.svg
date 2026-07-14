@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="78">i’ll throw away code as soon i want to add something to it and i get the</tspan><tspan x="600" y="102">feeling that what i have to do to add it is too hard.</tspan>
+    <tspan x="600" y="78">i just had to take the hypertext idea and connect it to the tcp and dns</tspan><tspan x="600" y="102">ideas and — ta-da!— the world wide web.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── ken thompson ──
+    ── tim berners-lee ──
   </text>
 </svg>
