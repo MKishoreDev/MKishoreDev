@@ -323,7 +323,7 @@
   <!-- ── corner HUD ─────────────────────────────────────────────────── -->
   <g opacity="0.75" font-family="ui-monospace, monospace" font-size="9.5" fill="#3a225c">
     <text x="24"   y="30"  letter-spacing="1.5">01 · DEVSHELL_HUD</text>
-    <text x="1176" y="16"  text-anchor="end" letter-spacing="1.5">MMXXVI · 14 Jul 2026 · 13:35 IST</text>
+    <text x="1176" y="16"  text-anchor="end" letter-spacing="1.5">MMXXVI · 14 Jul 2026 · 16:16 IST</text>
     <text x="24"   y="325" letter-spacing="2.5">MKISHORE.IS-A.DEV</text>
     <text x="1176" y="325" text-anchor="end" letter-spacing="2">✦  BUILDING IN PUBLIC  ✦</text>
   </g>
