@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">the programs we use to conjure processes are like a sorcerer&apos;s spells.</tspan><tspan x="600" y="92">they are carefully composed from symbolic expressions in arcane and</tspan><tspan x="600" y="116">esoteric programming languages that prescribe the tasks we want our…</tspan>
+    <tspan x="600" y="88">i think one of the most valuable rules is avoid duplication.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── hal abelson ──
+    ── martin fowler ──
   </text>
 </svg>
