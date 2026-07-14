@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="78">i just had to take the hypertext idea and connect it to the tcp and dns</tspan><tspan x="600" y="102">ideas and — ta-da!— the world wide web.</tspan>
+    <tspan x="600" y="78">we build our computer systems the way we build our cities: over time,</tspan><tspan x="600" y="102">without a plan, on top of ruins.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── tim berners-lee ──
+    ── ellen ullman ──
   </text>
 </svg>
