@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="88">first, solve the problem. then, write the code.</tspan>
+    <tspan x="600" y="78">over half of the time you spend working on a project is spent thinking,</tspan><tspan x="600" y="102">and no tool, no matter how advanced, can think for you.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── john johnson ──
+    ── richard p. gabriel ──
   </text>
 </svg>
