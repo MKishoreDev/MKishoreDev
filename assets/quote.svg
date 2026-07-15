@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">documenting is very, very hard; it’s time-consuming. to do it right,</tspan><tspan x="600" y="92">you’ve got to do it like programming. you’ve got to deconstruct it, put</tspan><tspan x="600" y="116">it together in nice ways, rewrite it when it’s wrong. people don’t do…</tspan>
+    <tspan x="600" y="88">first, solve the problem. then, write the code.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── ken thompson ──
+    ── john johnson ──
   </text>
 </svg>
