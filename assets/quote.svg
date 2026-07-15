@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="78">success is a lousy teacher. it seduces smart people into thinking they</tspan><tspan x="600" y="102">can&apos;t lose.</tspan>
+    <tspan x="600" y="78">any technological or managerial scheme to force documentation can be</tspan><tspan x="600" y="102">subverted by unwilling programmers.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── bill gates ──
+    ── daniel t. barry ──
   </text>
 </svg>
