@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="78">over half of the time you spend working on a project is spent thinking,</tspan><tspan x="600" y="102">and no tool, no matter how advanced, can think for you.</tspan>
+    <tspan x="600" y="68">anyone who has ever written a program knows that telling a computer what</tspan><tspan x="600" y="92">you want it to do is not as easy as it sounds. every detail of the</tspan><tspan x="600" y="116">computer’s desired operation must be precisely described. for…</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── richard p. gabriel ──
+    ── danny hillis ──
   </text>
 </svg>
