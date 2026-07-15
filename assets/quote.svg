@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="78">any technological or managerial scheme to force documentation can be</tspan><tspan x="600" y="102">subverted by unwilling programmers.</tspan>
+    <tspan x="600" y="78">the purpose of software engineering is to control complexity, not to</tspan><tspan x="600" y="102">create it.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── daniel t. barry ──
+    ── pamela zave ──
   </text>
 </svg>
