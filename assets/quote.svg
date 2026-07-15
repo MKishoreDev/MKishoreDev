@@ -34,7 +34,7 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">are you quite sure that all those bells and whistles, all those</tspan><tspan x="600" y="92">wonderful facilities of your so called powerful programming languages,</tspan><tspan x="600" y="116">belong to the solution set rather than the problem set?</tspan>
+    <tspan x="600" y="68">as long as there were no machines, programming was no problem at all;</tspan><tspan x="600" y="92">when we had a few weak computers, programming became a mild problem, and</tspan><tspan x="600" y="116">now we have gigantic computers, programming has become an equally…</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
