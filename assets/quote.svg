@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="78">most good programmers do programming not because they expect to get paid</tspan><tspan x="600" y="102">or get adulation by the public, but because it is fun to program.</tspan>
+    <tspan x="600" y="68">no matter how slick the demo is in rehearsal, when you do it in front of</tspan><tspan x="600" y="92">a live audience, the probability of a flawless presentation is inversely</tspan><tspan x="600" y="116">proportional to the number of people watching, raised to the power of…</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── linus torvalds ──
+    ── mark gibbs ──
   </text>
 </svg>
