@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="88">we who cut mere stones must always be envisioning cathedrals.</tspan>
+    <tspan x="600" y="68">we could, for instance, begin with cleaning up our language by no longer</tspan><tspan x="600" y="92">calling a bug a bug but by calling it an error. it is much more honest</tspan><tspan x="600" y="116">because it squarely puts the blame where it belongs, viz. with the…</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── quarry worker&apos;s creed ──
+    ── edsger w. dijkstra ──
   </text>
 </svg>

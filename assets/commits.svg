@@ -51,7 +51,7 @@
       <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Adjust banner SVG text and rectangle positions</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">1d ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">2d ago</text>
     </g>
 
     <g transform="translate(60, 106)">
@@ -69,7 +69,7 @@
       <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Delete index.html</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">1d ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">2d ago</text>
     </g>
 
   <!-- mini terminal command display -->
