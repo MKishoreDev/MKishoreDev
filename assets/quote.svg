@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">the most powerful programming language is lisp. if you don&apos;t know lisp</tspan><tspan x="600" y="92">(or its variant, scheme), you don&apos;t know what it means for a programming</tspan><tspan x="600" y="116">language to be powerful and elegant. once you learn lisp, you will…</tspan>
+    <tspan x="600" y="78">if you can get today’s work done today, but you do it in such a way that</tspan><tspan x="600" y="102">you can’t possibly get tomorrow’s work done tomorrow, then you lose.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── richard stallman ──
+    ── martin fowler ──
   </text>
 </svg>
