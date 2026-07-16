@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">every computer language has its shakespeares, and it is a joy to read</tspan><tspan x="600" y="92">their code. a well-written computer program possesses style, finesse,</tspan><tspan x="600" y="116">even humor—and a clarity that rivals the best prose.</tspan>
+    <tspan x="600" y="88">we who cut mere stones must always be envisioning cathedrals.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── danny hillis ──
+    ── quarry worker&apos;s creed ──
   </text>
 </svg>
