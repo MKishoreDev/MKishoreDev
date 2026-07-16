@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">i’ve got this need to program. i wake up in the morning with sentences</tspan><tspan x="600" y="92">of a literate program. before breakfast — i’m sure poets must feel this</tspan><tspan x="600" y="116">— i have to go to the computer and write this paragraph and then i can…</tspan>
+    <tspan x="600" y="78">the next best thing to having good ideas is recognizing good ideas from</tspan><tspan x="600" y="102">your users.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── donald knuth ──
+    ── eric s. raymond ──
   </text>
 </svg>
