@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">computer science research is different from these more traditional</tspan><tspan x="600" y="92">disciplines. philosophically it differs from the physical sciences</tspan><tspan x="600" y="116">because it seeks not to discover, explain, or exploit the natural…</tspan>
+    <tspan x="600" y="68">every computer language has its shakespeares, and it is a joy to read</tspan><tspan x="600" y="92">their code. a well-written computer program possesses style, finesse,</tspan><tspan x="600" y="116">even humor—and a clarity that rivals the best prose.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── dennis ritchie ──
+    ── danny hillis ──
   </text>
 </svg>
