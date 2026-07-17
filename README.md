@@ -149,18 +149,18 @@ Most of my work lives in public repositories — from developer tools and backen
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="33.3%" align="center" style="border: none; padding: 0;">
+      <a href="https://mkishore.is-a.dev/blog/the-certificate-i-thought-i-needed">
+        <img src="./assets/blog-1.svg" alt="The Certificate I Thought I Needed" width="100%"/>
+      </a>
+    </td>
+    <td width="33.3%" align="center" style="border: none; padding: 0;">
       <a href="https://mkishore.is-a.dev/blog/where-did-everything-go">
-        <img src="./assets/blog-1.svg" alt="Where Did Everything Go?" width="100%"/>
+        <img src="./assets/blog-2.svg" alt="Where Did Everything Go?" width="100%"/>
       </a>
     </td>
     <td width="33.3%" align="center" style="border: none; padding: 0;">
       <a href="https://mkishore.is-a.dev/blog/the-username-that-started-everything">
-        <img src="./assets/blog-2.svg" alt="The Username That Started Everything" width="100%"/>
-      </a>
-    </td>
-    <td width="33.3%" align="center" style="border: none; padding: 0;">
-      <a href="https://mkishore.is-a.dev/blog/welcome-to-blog">
-        <img src="./assets/blog-3.svg" alt="Welcome to the Blog" width="100%"/>
+        <img src="./assets/blog-3.svg" alt="The Username That Started Everything" width="100%"/>
       </a>
     </td>
   </tr>

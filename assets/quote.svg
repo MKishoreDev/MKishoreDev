@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">email is a wonderful thing for people whose role in life is to be on top</tspan><tspan x="600" y="92">of things. but not for me; my role is to be on the bottom of things.</tspan><tspan x="600" y="116">what i do takes long hours of studying and uninterruptible…</tspan>
+    <tspan x="600" y="78">programs must be written for people to read, and only incidentally for</tspan><tspan x="600" y="102">machines to execute.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── donald knuth ──
+    ── hal abelson ──
   </text>
 </svg>
