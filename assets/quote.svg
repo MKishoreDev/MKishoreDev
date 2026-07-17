@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="88">sometimes it’s just easier to throw a system away, and start over.</tspan>
+    <tspan x="600" y="78">the only way to learn a new programming language is by writing programs</tspan><tspan x="600" y="102">in it.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── joseph yoder (computer scientist) ──
+    ── dennis ritchie ──
   </text>
 </svg>
