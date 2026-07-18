@@ -38,14 +38,45 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python .github/scripts/update-quote.py
           python .github/scripts/update-commits.py
-          python .github/scripts/update-blogs.py
-          python .github/scripts/update-banner.py
+          git add -A
+          COMMITS_CHANGED=false
+          if ! git diff --cached --quiet; then
+            COMMITS_CHANGED=true
+          fi
+          git reset HEAD
 
-      # 4. Commit and push the changes back to your profile
+          python .github/scripts/update-blogs.py
+
+          if [ "$COMMITS_CHANGED" = "true" ]; then
+            for i in 1 2 3 4 5; do
+              python .github/scripts/update-quote.py
+              if git diff --quiet; then
+                echo "Quote unchanged, retrying ($i/5)..."
+                continue
+              fi
+              echo "Quote updated"
+              break
+            done
+            python .github/scripts/update-banner.py
+          else
+            echo "No new commits, skipping quote and banner updates"
+          fi
+
+      # 4. Cleanup pycache and commit changes (only if something actually changed)
       - name: Commit and Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: automated profile update [skip ci]"
-          branch: main
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: github-actions[bot]@users.noreply.github.com
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes detected, skipping commit"
+          else
+            find . -type d -name __pycache__ -exec rm -rf {} +
+            git add -A
+            git commit -m "chore: automated profile update [skip ci]"
+            git push
+          fi

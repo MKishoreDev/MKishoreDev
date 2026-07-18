@@ -5,6 +5,7 @@ import json
 import random
 import urllib.request
 import sys
+import os
 
 FALLBACK = {
     "quote": "the best code is written when the world is asleep",
@@ -18,6 +19,19 @@ def esc(s):
             .replace(">", "&gt;")
             .replace('"', "&quot;")
             .replace("'", "&apos;"))
+
+def read_current_quote():
+    path = "assets/quote.svg"
+    if not os.path.exists(path):
+        return None, None
+    with open(path, "r", encoding="utf-8") as f:
+        first_line = f.readline().strip()
+    if first_line.startswith("<!-- quote: ") and " | author: " in first_line:
+        content = first_line[12:-4]
+        parts = content.split(" | author: ")
+        if len(parts) == 2:
+            return parts[0], parts[1]
+    return None, None
 
 def wrap(text, max_chars=72, max_lines=3):
     words = text.split()
@@ -68,7 +82,17 @@ def fetch_quote():
         return FALLBACK
 
 def main():
-    data = fetch_quote()
+    current_quote, current_author = read_current_quote()
+
+    for _ in range(20):
+        data = fetch_quote()
+        if data["quote"] != current_quote or data["author"] != current_author:
+            break
+        print("Same quote, retrying...")
+    else:
+        print("Could not find a new quote after 20 attempts, skipping update")
+        return
+
     lines = wrap(data["quote"], 72, 3)
     start_y = 88 if len(lines) == 1 else (78 if len(lines) == 2 else 68)
     line_h = 24
@@ -77,7 +101,8 @@ def main():
         for i, l in enumerate(lines)
     )
 
-    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
+    svg = f"""<!-- quote: {data['quote']} | author: {data['author']} -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
   <style>@media (prefers-reduced-motion: reduce) {{ * {{ animation: none !important; }} }}</style>

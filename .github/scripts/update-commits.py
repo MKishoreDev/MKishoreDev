@@ -100,8 +100,30 @@ def fetch_commits():
         print(f"commits fetch failed: {e}", file=sys.stderr)
         return FALLBACK_COMMITS
 
+def read_current_commits():
+    path = "commits.txt"
+    if not os.path.exists(path):
+        return []
+    with open(path, "r", encoding="utf-8") as f:
+        content = f.read()
+    shas = []
+    for line in content.split("\n"):
+        line = line.strip()
+        if line.startswith("SHA:"):
+            sha = line.split(":", 1)[1].strip()
+            if sha:
+                shas.append(sha)
+    return shas
+
 def main():
     commits = fetch_commits()
+    current_shas = read_current_commits()
+    new_shas = [c["sha"] for c in commits]
+
+    if current_shas == new_shas:
+        print("No new commits, skipping update")
+        return
+
     line_h = 26
     start_y = 80
 

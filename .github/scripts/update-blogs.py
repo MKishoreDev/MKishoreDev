@@ -4,6 +4,8 @@
 import json
 import urllib.request
 import sys
+import os
+import re
 from datetime import datetime
 
 FALLBACK_POSTS = [
@@ -82,6 +84,24 @@ def fetch_blogs():
     except Exception as e:
         print(f"blogs fetch failed: {e}", file=sys.stderr)
         return FALLBACK_POSTS
+
+def read_current_blog_slugs():
+    readme_path = "README.md"
+    if not os.path.exists(readme_path):
+        return []
+    with open(readme_path, "r", encoding="utf-8") as f:
+        content = f.read()
+    start_marker = "<!-- BLOGS:START -->"
+    end_marker = "<!-- BLOGS:END -->"
+    start_idx = content.find(start_marker)
+    end_idx = content.find(end_marker)
+    if start_idx == -1 or end_idx == -1:
+        return []
+    section = content[start_idx:end_idx]
+    slugs = []
+    for match in re.finditer(r'href="https://mkishore\.is-a\.dev/blog/([^"]+)"', section):
+        slugs.append(match.group(1))
+    return slugs
 
 def render_card(post, index):
     tags = post.get("tags", [])
@@ -203,6 +223,13 @@ def update_readme(posts):
 
 def main():
     posts = fetch_blogs()
+    current_slugs = read_current_blog_slugs()
+    new_slugs = [post["slug"] for post in posts]
+
+    if current_slugs == new_slugs:
+        print("No new blogs, skipping update")
+        return
+
     for i, post in enumerate(posts):
         card_svg = render_card(post, i)
         with open(f"assets/blog-{i + 1}.svg", "w", encoding="utf-8") as f:
