@@ -56,7 +56,14 @@ This template includes several visual enhancements that are fully compatible wit
 * All animations are designed to be subtle and non-distracting.
 
 ### Live Timestamp
-* The banner's top-right HUD corner displays a live IST timestamp (`DD Mon YYYY · HH:MM IST`) injected by `.github/scripts/update-banner.py` on every workflow run.
+* The banner's top-right HUD corner displays a live IST timestamp (`DD Mon YYYY · HH:MM IST`) injected by `.github/scripts/update-banner.py` whenever new commits are detected.
+
+### Smart Update Logic
+* **Commits** — Only update `commits.svg` and `commits.txt` when the fetched commit SHAs differ from the current ones. If no new commits exist, the workflow skips the commit entirely.
+* **Blogs** — Always check for changes in the blog index. Update `blog-*.svg` cards and README links only when the post slugs have changed.
+* **Quotes** — Only update `quote.svg` when commits have changed. The script retries up to 5 times to find a quote different from the current one.
+* **Banner** — Updates the timestamp only when commits have changed, so the date reflects actual activity rather than every workflow run.
+* **No-empty-commit policy** — The workflow commits only when at least one file was actually modified. If nothing changed, no commit is made, avoiding artificial streaks.
 
 ---
 
