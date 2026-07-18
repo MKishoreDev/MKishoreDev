@@ -1,3 +1,4 @@
+<!-- quote: we need to be super careful with ai. potentially more dangerous than nukes. | author: elon musk -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -34,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">the best programmers are not marginally better than merely good ones.</tspan><tspan x="600" y="92">they are an order-of-magnitude better, measured by whatever standard:</tspan><tspan x="600" y="116">conceptual creativity, speed, ingenuity of design, or problem-solving…</tspan>
+    <tspan x="600" y="78">we need to be super careful with ai. potentially more dangerous than</tspan><tspan x="600" y="102">nukes.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── randall e. stross ──
+    ── elon musk ──
   </text>
 </svg>
