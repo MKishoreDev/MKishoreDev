@@ -13,7 +13,7 @@ This repository is configured as a public template. You are welcome to fork, cop
 ### Checklist of items to replace:
 
 1. **GitHub Username:**
-   * In [README.md](file:///c:/Users/kishore/Downloads/MKishoreDev-main/MKishoreDev-main/README.md), replace all instances of `MKishoreDev` with your own GitHub username (including in Shields.io badges, visitor counters, and statistics URLs).
+   * In [README.md](https://github.com/MKishoreDev/MKishoreDev/blob/main/README.md), replace all instances of `MKishoreDev` with your own GitHub username (including in Shields.io badges, visitor counters, and statistics URLs).
    * In `.github/scripts/update-commits.py`, replace `MKishoreDev` in the GitHub Search API query (`q=author:MKishoreDev`) with your own username to fetch your own commits.
 
 2. **Personal Portfolio & Social Links:**
@@ -77,18 +77,8 @@ To enable the hourly profile updates:
    * Click **Save**.
 
 2. **Run the Workflow:**
-   * The workflow [update-profile.yml](file:///c:/Users/kishore/Downloads/MKishoreDev-main/MKishoreDev-main/.github/workflows/update-profile.yml) runs automatically every hour.
+   * The workflow [update-profile.yml](https://github.com/MKishoreDev/MKishoreDev/blob/main/.github/workflows/update-profile.yml) runs automatically every hour.
    * You can also trigger it manually by going to the **Actions** tab, selecting **Update Profile README**, and clicking **Run workflow**.
 
 3. **Rate Limits & Secret Token:**
    * The action uses the default repository `GITHUB_TOKEN` to fetch commits and update the profile without hitting GitHub API rate limits. No extra setup is required!
-
----
-
-## 🛠️ Customization Ideas
-
-Want to make this template your own? Here are some ideas:
-
-* **Social Preview Image** — Upload a custom banner in your repo settings so link previews on Twitter/Discord/Slack look branded.
-* **Typing SVG Pause-on-Hover** — Add `&pause=10000` to the typing SVG URL so the text freezes when hovered, making it easier to read.
-* **Custom Color Palette** — Edit the gradient stops in each SVG's `<defs>` section to match your personal brand colors.
