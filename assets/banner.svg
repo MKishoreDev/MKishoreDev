@@ -314,7 +314,7 @@
       <text x="10" y="8" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="11.5" fill="#e8d5b7">
         <tspan fill="#a78bfa">$</tspan> cat whoami.txt --since-2021
       </text>
-      <rect x="213" y="-3" width="6.5" height="13" fill="#e8d5b7">
+      <rect x="223" y="-3" width="6.5" height="13" fill="#e8d5b7">
         <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
       </rect>
     </g>
