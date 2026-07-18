@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">a complex system that works is invariably found to have evolved from a</tspan><tspan x="600" y="92">simple system that worked. the inverse proposition also appears to be</tspan><tspan x="600" y="116">true: a complex system designed from scratch never works and cannot be…</tspan>
+    <tspan x="600" y="68">the best programmers are not marginally better than merely good ones.</tspan><tspan x="600" y="92">they are an order-of-magnitude better, measured by whatever standard:</tspan><tspan x="600" y="116">conceptual creativity, speed, ingenuity of design, or problem-solving…</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── john gall (author) ──
+    ── randall e. stross ──
   </text>
 </svg>
