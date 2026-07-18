@@ -34,10 +34,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="78">the best thing about a boolean is even if you are wrong, you are only</tspan><tspan x="600" y="102">off by a bit.</tspan>
+    <tspan x="600" y="68">a complex system that works is invariably found to have evolved from a</tspan><tspan x="600" y="92">simple system that worked. the inverse proposition also appears to be</tspan><tspan x="600" y="116">true: a complex system designed from scratch never works and cannot be…</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── anonymous ──
+    ── john gall (author) ──
   </text>
 </svg>
