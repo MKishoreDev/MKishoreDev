@@ -1,12 +1,26 @@
 Recent Commits
 ================================================================================
-Generated: 2026-07-18 11:40:00 UTC+05:30
+Generated: 2026-07-18 11:50:55 UTC+05:30
 ================================================================================
 
 Commit 1
+  SHA:      34a3d6b
+  Repo:     MKishoreDev
+  Message:  Fix links to README and workflow in USAGE.md
+  Time:     just now
+  URL:      https://github.com/MKishoreDev/MKishoreDev/commit/34a3d6b5bb9a934e69012196fac5373a8bdeb831
+
+Commit 2
+  SHA:      e8aa43c
+  Repo:     MKishoreDev
+  Message:  docs: update USAGE.md with smart workflow behavior and fake-streak preventio
+  Time:     5m ago
+  URL:      https://github.com/MKishoreDev/MKishoreDev/commit/e8aa43c82c957e276922fb9135fa58f5304dcea3
+
+Commit 3
   SHA:      06336b2
   Repo:     MKishoreDev
   Message:  chore: avoid fake streaks by only committing when content actually changes
-  Time:     just now
+  Time:     11m ago
   URL:      https://github.com/MKishoreDev/MKishoreDev/commit/06336b2e1dc0001597a4ec1cdf748b876c61a9a2
 
