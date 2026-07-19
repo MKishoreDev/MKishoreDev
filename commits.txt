@@ -1,40 +1,40 @@
 Recent Commits
 ================================================================================
-Generated: 2026-07-18 13:20:27 UTC+05:30
+Generated: 2026-07-19 08:15:07 UTC+05:30
 ================================================================================
 
 Commit 1
+  SHA:      f736062
+  Repo:     MKishoreDev
+  Message:  docs(readme): update learning section to Aptitude & Reasoning
+  Time:     11m ago
+  URL:      https://github.com/MKishoreDev/MKishoreDev/commit/f736062f6ef9496c67886a0d33f498230c6f1e38
+
+Commit 2
   SHA:      6aba8d8
   Repo:     MKishoreDev
   Message:  Update banner.svg
-  Time:     1h ago
+  Time:     20h ago
   URL:      https://github.com/MKishoreDev/MKishoreDev/commit/6aba8d8bc79e0fee45b80ce44c5ccf6b0aa167b6
 
-Commit 2
+Commit 3
   SHA:      43cdf3b
   Repo:     MKishoreDev
   Message:  Adjust rectangle position in journey.svg
-  Time:     1h ago
+  Time:     20h ago
   URL:      https://github.com/MKishoreDev/MKishoreDev/commit/43cdf3bbe7fa8593a7270b77c9e6cd8b08d9e408
 
-Commit 3
+Commit 4
   SHA:      53b3f62
   Repo:     MKishoreDev
   Message:  Update rectangle position in banner.svg
-  Time:     1h ago
+  Time:     20h ago
   URL:      https://github.com/MKishoreDev/MKishoreDev/commit/53b3f62ef39ffe0fa6dabf7b23677f8297696b15
 
-Commit 4
+Commit 5
   SHA:      64a3848
   Repo:     MKishoreDev
   Message:  style: adjust terminal cursor position in banner
-  Time:     1h ago
+  Time:     20h ago
   URL:      https://github.com/MKishoreDev/MKishoreDev/commit/64a3848b7980bb2766cac5b44058469ff7cc9df6
-
-Commit 5
-  SHA:      34a3d6b
-  Repo:     MKishoreDev
-  Message:  Fix links to README and workflow in USAGE.md
-  Time:     1h ago
-  URL:      https://github.com/MKishoreDev/MKishoreDev/commit/34a3d6b5bb9a934e69012196fac5373a8bdeb831
 
