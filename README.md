@@ -132,7 +132,7 @@ Most of my work lives in public repositories — from developer tools and backen
 **Currently learning**
 
 - **DSA** → strengthening fundamentals through problem solving
-- **Automation Testing** → Selenium &amp; Playwright
+- **Aptitude & Reasoning** → quantitative analysis &amp; logical problem-solving
 - **System Design** → scalable backend architecture
 - **Open Source at Scale** → contribution workflows &amp; maintenance
 
