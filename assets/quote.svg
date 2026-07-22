@@ -1,4 +1,4 @@
-<!-- quote: perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way. | author: richard hamming -->
+<!-- quote: the most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry. | author: henry petroski -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -35,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">perhaps the central problem we face in all of computer science is how we</tspan><tspan x="600" y="92">are to get to the situation where we build on top of the work of others</tspan><tspan x="600" y="116">rather than redoing so much of it in a trivially different way.</tspan>
+    <tspan x="600" y="68">the most amazing achievement of the computer software industry is its</tspan><tspan x="600" y="92">continuing cancellation of the steady and staggering gains made by the</tspan><tspan x="600" y="116">computer hardware industry.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── richard hamming ──
+    ── henry petroski ──
   </text>
 </svg>
