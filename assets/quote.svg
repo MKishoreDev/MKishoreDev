@@ -1,4 +1,4 @@
-<!-- quote: the most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry. | author: henry petroski -->
+<!-- quote: managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team. | author: joseph yoder (computer scientist) -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -35,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">the most amazing achievement of the computer software industry is its</tspan><tspan x="600" y="92">continuing cancellation of the steady and staggering gains made by the</tspan><tspan x="600" y="116">computer hardware industry.</tspan>
+    <tspan x="600" y="68">managing a large project is a qualitatively different problem from</tspan><tspan x="600" y="92">managing a small one, just as leading a division of infantry into battle</tspan><tspan x="600" y="116">is different from commanding a small special forces team.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── henry petroski ──
+    ── joseph yoder (computer scientist) ──
   </text>
 </svg>
