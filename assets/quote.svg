@@ -1,4 +1,4 @@
-<!-- quote: managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team. | author: joseph yoder (computer scientist) -->
+<!-- quote: the competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague | author: edsger w. dijkstra -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -35,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">managing a large project is a qualitatively different problem from</tspan><tspan x="600" y="92">managing a small one, just as leading a division of infantry into battle</tspan><tspan x="600" y="116">is different from commanding a small special forces team.</tspan>
+    <tspan x="600" y="68">the competent programmer is fully aware of the strictly limited size of</tspan><tspan x="600" y="92">his own skull; therefore he approaches the programming task in full</tspan><tspan x="600" y="116">humility, and among other things he avoids clever tricks like the plague</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── joseph yoder (computer scientist) ──
+    ── edsger w. dijkstra ──
   </text>
 </svg>
