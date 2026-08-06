@@ -149,18 +149,18 @@ Most of my work lives in public repositories — from developer tools and backen
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="33.3%" align="center" style="border: none; padding: 0;">
+      <a href="https://mkishore.is-a.dev/blog/how-i-built-this-portfolio">
+        <img src="./assets/blog-1.svg" alt="How I Built This Portfolio: Inspiration, Systems, and Behind the Code" width="100%"/>
+      </a>
+    </td>
+    <td width="33.3%" align="center" style="border: none; padding: 0;">
       <a href="https://mkishore.is-a.dev/blog/no-longer-a-16-year-old-developer">
-        <img src="./assets/blog-1.svg" alt="No Longer a 16-Year-Old Developer" width="100%"/>
+        <img src="./assets/blog-2.svg" alt="No Longer a 16-Year-Old Developer" width="100%"/>
       </a>
     </td>
     <td width="33.3%" align="center" style="border: none; padding: 0;">
       <a href="https://mkishore.is-a.dev/blog/before-ai-era">
-        <img src="./assets/blog-2.svg" alt="I&apos;m Glad I Became a Developer Before the AI Era" width="100%"/>
-      </a>
-    </td>
-    <td width="33.3%" align="center" style="border: none; padding: 0;">
-      <a href="https://mkishore.is-a.dev/blog/my-first-hackathon">
-        <img src="./assets/blog-3.svg" alt="My First Hackathon Certificate" width="100%"/>
+        <img src="./assets/blog-3.svg" alt="I&apos;m Glad I Became a Developer Before the AI Era" width="100%"/>
       </a>
     </td>
   </tr>
