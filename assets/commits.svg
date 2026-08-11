@@ -42,6 +42,24 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#ddd467e</text>
+      
+      <!-- repo chip -->
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[DisPlay]</text>
+      
+      <!-- message -->
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Initial commit</text>
+      
+      <!-- time -->
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">1h ago</text>
+    </g>
+
+    <g transform="translate(60, 106)">
+      <!-- bullet point branch dot -->
+      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
+      
+      <!-- sha -->
       <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#0142fce</text>
       
       <!-- repo chip -->
@@ -51,10 +69,10 @@
       <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Update Discussions badge in README.md</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">50m ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">6d ago</text>
     </g>
 
-    <g transform="translate(60, 106)">
+    <g transform="translate(60, 132)">
       <!-- bullet point branch dot -->
       <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
@@ -69,10 +87,10 @@
       <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Add GitHub Actions workflow to update README</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">57m ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">6d ago</text>
     </g>
 
-    <g transform="translate(60, 132)">
+    <g transform="translate(60, 158)">
       <!-- bullet point branch dot -->
       <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
@@ -87,13 +105,13 @@
       <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Update README with recent activity and new badges</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">57m ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">6d ago</text>
     </g>
 
-    <g transform="translate(60, 158)">
+    <g transform="translate(60, 184)">
       <!-- bullet point branch dot -->
       <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0"/>
       
       <!-- sha -->
       <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#2fbeefc</text>
@@ -105,25 +123,7 @@
       <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Revise README for branding and feature updates</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">1h ago</text>
-    </g>
-
-    <g transform="translate(60, 184)">
-      <!-- bullet point branch dot -->
-      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0"/>
-      
-      <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#ef04820</text>
-      
-      <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[guestbook]</text>
-      
-      <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Revise README for guestbook project</text>
-      
-      <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">5d ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">6d ago</text>
     </g>
 
   <!-- mini terminal command display -->
