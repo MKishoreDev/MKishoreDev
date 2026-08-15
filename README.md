@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=16+y%2Fo+student+developer+%C2%B7+building+in+public;backend+engineer+%E2%9C%A8+open+source+contributor;crafting+web+apps%2C+APIs%2C+automation+%26+SDKs)](https://github.com/MKishoreDev)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=17+y%2Fo+student+developer+%C2%B7+building+in+public;backend+engineer+%E2%9C%A8+open+source+contributor;crafting+web+apps%2C+APIs%2C+automation+%26+SDKs)](https://github.com/MKishoreDev)
 
 <br/>
 
