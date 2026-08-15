@@ -1,4 +1,4 @@
-<!-- quote: if microsoft ever does applications for linux it means i've won. | author: linus torvalds -->
+<!-- quote: in fact, in the 1980s i often came across newly graduated computer science majors who had never seen a real program in their lives. they had only seen toy exercises, school exercises, because every real program was a trade secret. | author: richard stallman -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -35,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="88">if microsoft ever does applications for linux it means i&apos;ve won.</tspan>
+    <tspan x="600" y="68">in fact, in the 1980s i often came across newly graduated computer</tspan><tspan x="600" y="92">science majors who had never seen a real program in their lives. they</tspan><tspan x="600" y="116">had only seen toy exercises, school exercises, because every real…</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── linus torvalds ──
+    ── richard stallman ──
   </text>
 </svg>
