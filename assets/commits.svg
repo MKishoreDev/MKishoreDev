@@ -42,6 +42,78 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#7ff4edd</text>
+      
+      <!-- repo chip -->
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[en-peyar]</text>
+      
+      <!-- message -->
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix: update DOMPurify CDN version to 3.2.4 and optimize generation pipeline </text>
+      
+      <!-- time -->
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">23m ago</text>
+    </g>
+
+    <g transform="translate(60, 106)">
+      <!-- bullet point branch dot -->
+      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
+      
+      <!-- sha -->
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#b207487</text>
+      
+      <!-- repo chip -->
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[en-peyar]</text>
+      
+      <!-- message -->
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix: resolve TypeError replace on undefined tagline, CSP inline handler viol</text>
+      
+      <!-- time -->
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">30m ago</text>
+    </g>
+
+    <g transform="translate(60, 132)">
+      <!-- bullet point branch dot -->
+      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
+      
+      <!-- sha -->
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#305230c</text>
+      
+      <!-- repo chip -->
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[en-peyar]</text>
+      
+      <!-- message -->
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat: add dynamic Groq model discovery endpoint integration</text>
+      
+      <!-- time -->
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">38m ago</text>
+    </g>
+
+    <g transform="translate(60, 158)">
+      <!-- bullet point branch dot -->
+      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
+      
+      <!-- sha -->
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#10f112f</text>
+      
+      <!-- repo chip -->
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[en-peyar]</text>
+      
+      <!-- message -->
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix: replace decommissioned Groq models with active supported models</text>
+      
+      <!-- time -->
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">42m ago</text>
+    </g>
+
+    <g transform="translate(60, 184)">
+      <!-- bullet point branch dot -->
+      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0"/>
+      
+      <!-- sha -->
       <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#57d6e77</text>
       
       <!-- repo chip -->
@@ -51,79 +123,7 @@
       <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Add LICENSE file</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">6m ago</text>
-    </g>
-
-    <g transform="translate(60, 106)">
-      <!-- bullet point branch dot -->
-      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
-      
-      <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#6d4785e</text>
-      
-      <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[HexaInfoBot]</text>
-      
-      <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">update: stable</text>
-      
-      <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">49m ago</text>
-    </g>
-
-    <g transform="translate(60, 132)">
-      <!-- bullet point branch dot -->
-      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
-      
-      <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#98c5360</text>
-      
-      <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[MKishoreDev]</text>
-      
-      <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Fix typing animation line count in README</text>
-      
-      <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">7d ago</text>
-    </g>
-
-    <g transform="translate(60, 158)">
-      <!-- bullet point branch dot -->
-      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
-      
-      <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#15f9de0</text>
-      
-      <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[en-peyar]</text>
-      
-      <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix: comprehensive security, testing, and architecture overhaul</text>
-      
-      <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">7d ago</text>
-    </g>
-
-    <g transform="translate(60, 184)">
-      <!-- bullet point branch dot -->
-      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0"/>
-      
-      <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#2485ee5</text>
-      
-      <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[DisPlay]</text>
-      
-      <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Update Discord profile badge in README</text>
-      
-      <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">11d ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">1h ago</text>
     </g>
 
   <!-- mini terminal command display -->
