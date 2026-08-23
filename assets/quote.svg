@@ -1,4 +1,4 @@
-<!-- quote: one of the important implications of technical debt is that it must be serviced. if the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets. | author: steve mcconnell -->
+<!-- quote: the effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer. | author: edsger w. dijkstra -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -35,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">one of the important implications of technical debt is that it must be</tspan><tspan x="600" y="92">serviced. if the debt grows large enough, eventually the company will</tspan><tspan x="600" y="116">spend more on servicing its debt than it invests in increasing the…</tspan>
+    <tspan x="600" y="78">the effective exploitation of his powers of abstraction must be regarded</tspan><tspan x="600" y="102">as one of the most vital activities of a competent programmer.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── steve mcconnell ──
+    ── edsger w. dijkstra ──
   </text>
 </svg>
