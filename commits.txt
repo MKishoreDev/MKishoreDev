@@ -1,40 +1,40 @@
 Recent Commits
 ================================================================================
-Generated: 2026-08-23 14:00:16 UTC+05:30
+Generated: 2026-08-25 22:07:00 UTC+05:30
 ================================================================================
 
 Commit 1
+  SHA:      f638d6a
+  Repo:     register
+  Message:  Update mkishore.json with MX records
+  Time:     5m ago
+  URL:      https://github.com/is-a-dev/register/commit/f638d6aee293cef8121013898f1e0cd5ecf8054b
+
+Commit 2
+  SHA:      3795241
+  Repo:     register
+  Message:  Add Zoho verification TXT record
+  Time:     19m ago
+  URL:      https://github.com/is-a-dev/register/commit/3795241399537dbf08092c5517788a34271ecac1
+
+Commit 3
   SHA:      7ff4edd
   Repo:     en-peyar
   Message:  fix: update DOMPurify CDN version to 3.2.4 and optimize generation pipeline 
-  Time:     23m ago
+  Time:     2d ago
   URL:      https://github.com/MKishoreDev/en-peyar/commit/7ff4edd8ce36e0f025f8fa6638eaf3e58bdbe111
 
-Commit 2
+Commit 4
   SHA:      b207487
   Repo:     en-peyar
   Message:  fix: resolve TypeError replace on undefined tagline, CSP inline handler viol
-  Time:     30m ago
+  Time:     2d ago
   URL:      https://github.com/MKishoreDev/en-peyar/commit/b20748727d7bd789bba04f30e125ed3adeb19402
 
-Commit 3
+Commit 5
   SHA:      305230c
   Repo:     en-peyar
   Message:  feat: add dynamic Groq model discovery endpoint integration
-  Time:     38m ago
+  Time:     2d ago
   URL:      https://github.com/MKishoreDev/en-peyar/commit/305230caf421467510b5feef8ce003424e5c69ed
-
-Commit 4
-  SHA:      10f112f
-  Repo:     en-peyar
-  Message:  fix: replace decommissioned Groq models with active supported models
-  Time:     42m ago
-  URL:      https://github.com/MKishoreDev/en-peyar/commit/10f112f8e950d3999436d2050071fb323c854412
-
-Commit 5
-  SHA:      57d6e77
-  Repo:     HexaInfoBot
-  Message:  Add LICENSE file
-  Time:     1h ago
-  URL:      https://github.com/MKishoreDev/HexaInfoBot/commit/57d6e77b70035e1f216dd3ed7e7852420597c725
 

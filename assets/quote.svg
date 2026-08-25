@@ -1,4 +1,4 @@
-<!-- quote: the acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: 1. combining several simple ideas into one compound one, and thus all complex ideas are made. 2. the second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations. 3. the third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made. | author: john locke -->
+<!-- quote: a complex system that works is invariably found to have evolved from a simple system that worked. the inverse proposition also appears to be true: a complex system designed from scratch never works and cannot be made to work. | author: john gall (author) -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -35,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">the acts of the mind, wherein it exerts its power over simple ideas, are</tspan><tspan x="600" y="92">chiefly these three: 1. combining several simple ideas into one compound</tspan><tspan x="600" y="116">one, and thus all complex ideas are made. 2. the second is bringing…</tspan>
+    <tspan x="600" y="68">a complex system that works is invariably found to have evolved from a</tspan><tspan x="600" y="92">simple system that worked. the inverse proposition also appears to be</tspan><tspan x="600" y="116">true: a complex system designed from scratch never works and cannot be…</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── john locke ──
+    ── john gall (author) ──
   </text>
 </svg>
