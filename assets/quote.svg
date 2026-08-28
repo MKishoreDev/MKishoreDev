@@ -1,5 +1,4 @@
-<!-- quote: i think there is a world market for maybe five
-computers. | author: thomas j. watson -->
+<!-- quote: debugging is twice as hard as writing the code in the first place. therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. | author: brian kernighan -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -36,10 +35,10 @@ computers. | author: thomas j. watson -->
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="88">i think there is a world market for maybe five computers.</tspan>
+    <tspan x="600" y="68">debugging is twice as hard as writing the code in the first place.</tspan><tspan x="600" y="92">therefore, if you write the code as cleverly as possible, you are, by</tspan><tspan x="600" y="116">definition, not smart enough to debug it.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── thomas j. watson ──
+    ── brian kernighan ──
   </text>
 </svg>

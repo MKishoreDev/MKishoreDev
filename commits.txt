@@ -1,40 +1,40 @@
 Recent Commits
 ================================================================================
-Generated: 2026-08-25 23:01:22 UTC+05:30
+Generated: 2026-08-28 19:21:41 UTC+05:30
 ================================================================================
 
 Commit 1
-  SHA:      eafd034
-  Repo:     register
-  Message:  Fix formatting in zmail._domainkey.mkishore.json
-  Time:     19m ago
-  URL:      https://github.com/is-a-dev/register/commit/eafd0345c4f78cf591ebb5a5168377fcfa6a38c9
+  SHA:      e906579
+  Repo:     DisPlay
+  Message:  docs: add link to blog post story behind DisPlay
+  Time:     4h ago
+  URL:      https://github.com/MKishoreDev/DisPlay/commit/e906579b46c265696ec937b386975f59d558b488
 
 Commit 2
-  SHA:      9297a3c
-  Repo:     register
-  Message:  Add SPF record to mkishore.json
-  Time:     46m ago
-  URL:      https://github.com/is-a-dev/register/commit/9297a3c6e3a30ecbbf37ad4b0375ca636dbd8476
+  SHA:      6d09d15
+  Repo:     en-peyar
+  Message:  fix: ban raw textbook dictionary nouns and enforce coined brand evolutions f
+  Time:     8h ago
+  URL:      https://github.com/MKishoreDev/en-peyar/commit/6d09d15e063d96a87d532e40f80f3525de7953ee
 
 Commit 3
-  SHA:      527e711
-  Repo:     register
-  Message:  Add DKIM configuration for mkishoredev
-  Time:     49m ago
-  URL:      https://github.com/is-a-dev/register/commit/527e711d3cf08a509f8ce8925e606188e3742350
+  SHA:      2b88f96
+  Repo:     en-peyar
+  Message:  fix: prevent JSON.parse syntax errors on non-JSON/HTML error responses
+  Time:     8h ago
+  URL:      https://github.com/MKishoreDev/en-peyar/commit/2b88f9615d057719444b5eb83bb22b2e2debe334
 
 Commit 4
-  SHA:      f638d6a
-  Repo:     register
-  Message:  Update mkishore.json with MX records
-  Time:     1h ago
-  URL:      https://github.com/is-a-dev/register/commit/f638d6aee293cef8121013898f1e0cd5ecf8054b
+  SHA:      e458ced
+  Repo:     en-peyar
+  Message:  docs: update README.md and CONTRIBUTING.md with accurate tech stack, env set
+  Time:     8h ago
+  URL:      https://github.com/MKishoreDev/en-peyar/commit/e458ceda4f1d02de51486a16889754ef65dd4cb9
 
 Commit 5
-  SHA:      3795241
-  Repo:     register
-  Message:  Add Zoho verification TXT record
-  Time:     1h ago
-  URL:      https://github.com/is-a-dev/register/commit/3795241399537dbf08092c5517788a34271ecac1
+  SHA:      81b8f91
+  Repo:     en-peyar
+  Message:  feat: overhaul name generation with quality-first prompts, thinking field, T
+  Time:     8h ago
+  URL:      https://github.com/MKishoreDev/en-peyar/commit/81b8f91ac47c88a9924cb3823d1c2abac0c9ca20
 
