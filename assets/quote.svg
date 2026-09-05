@@ -1,4 +1,4 @@
-<!-- quote: debugging is twice as hard as writing the code in the first place. therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. | author: brian kernighan -->
+<!-- quote: two centuries ago leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. the economics of the situation were against it. | author: vannevar bush -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -35,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">debugging is twice as hard as writing the code in the first place.</tspan><tspan x="600" y="92">therefore, if you write the code as cleverly as possible, you are, by</tspan><tspan x="600" y="116">definition, not smart enough to debug it.</tspan>
+    <tspan x="600" y="68">two centuries ago leibnitz invented a calculating machine which embodied</tspan><tspan x="600" y="92">most of the essential features of recent keyboard devices, but it could</tspan><tspan x="600" y="116">not then come into use. the economics of the situation were against it.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── brian kernighan ──
+    ── vannevar bush ──
   </text>
 </svg>

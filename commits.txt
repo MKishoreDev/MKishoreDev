@@ -1,40 +1,40 @@
 Recent Commits
 ================================================================================
-Generated: 2026-08-28 19:21:41 UTC+05:30
+Generated: 2026-09-05 17:55:56 UTC+05:30
 ================================================================================
 
 Commit 1
+  SHA:      21c0bee
+  Repo:     en-peyar
+  Message:  fix: remove infinite reload loop caused by dynamic SW URL and controllerchan
+  Time:     28m ago
+  URL:      https://github.com/MKishoreDev/en-peyar/commit/21c0bee26900e9048ae7da6f5767c4ad64c7c384
+
+Commit 2
+  SHA:      40bb4f1
+  Repo:     en-peyar
+  Message:  fix: bundle DOMPurify locally, prevent heading font clipping, and automate d
+  Time:     30m ago
+  URL:      https://github.com/MKishoreDev/en-peyar/commit/40bb4f1999e7cd79a38c818b4c306634a7dd964d
+
+Commit 3
+  SHA:      1b0c154
+  Repo:     en-peyar
+  Message:  feat: migrate Thirukkural API to kural.codewithram.dev & adapt section/chapt
+  Time:     36m ago
+  URL:      https://github.com/MKishoreDev/en-peyar/commit/1b0c154ec73d51a8452a88f661108ac3d9e47753
+
+Commit 4
   SHA:      e906579
   Repo:     DisPlay
   Message:  docs: add link to blog post story behind DisPlay
-  Time:     4h ago
+  Time:     8d ago
   URL:      https://github.com/MKishoreDev/DisPlay/commit/e906579b46c265696ec937b386975f59d558b488
 
-Commit 2
+Commit 5
   SHA:      6d09d15
   Repo:     en-peyar
   Message:  fix: ban raw textbook dictionary nouns and enforce coined brand evolutions f
-  Time:     8h ago
+  Time:     8d ago
   URL:      https://github.com/MKishoreDev/en-peyar/commit/6d09d15e063d96a87d532e40f80f3525de7953ee
-
-Commit 3
-  SHA:      2b88f96
-  Repo:     en-peyar
-  Message:  fix: prevent JSON.parse syntax errors on non-JSON/HTML error responses
-  Time:     8h ago
-  URL:      https://github.com/MKishoreDev/en-peyar/commit/2b88f9615d057719444b5eb83bb22b2e2debe334
-
-Commit 4
-  SHA:      e458ced
-  Repo:     en-peyar
-  Message:  docs: update README.md and CONTRIBUTING.md with accurate tech stack, env set
-  Time:     8h ago
-  URL:      https://github.com/MKishoreDev/en-peyar/commit/e458ceda4f1d02de51486a16889754ef65dd4cb9
-
-Commit 5
-  SHA:      81b8f91
-  Repo:     en-peyar
-  Message:  feat: overhaul name generation with quality-first prompts, thinking field, T
-  Time:     8h ago
-  URL:      https://github.com/MKishoreDev/en-peyar/commit/81b8f91ac47c88a9924cb3823d1c2abac0c9ca20
 

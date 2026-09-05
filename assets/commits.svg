@@ -42,6 +42,60 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#21c0bee</text>
+      
+      <!-- repo chip -->
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[en-peyar]</text>
+      
+      <!-- message -->
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix: remove infinite reload loop caused by dynamic SW URL and controllerchan</text>
+      
+      <!-- time -->
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">28m ago</text>
+    </g>
+
+    <g transform="translate(60, 106)">
+      <!-- bullet point branch dot -->
+      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
+      
+      <!-- sha -->
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#40bb4f1</text>
+      
+      <!-- repo chip -->
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[en-peyar]</text>
+      
+      <!-- message -->
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix: bundle DOMPurify locally, prevent heading font clipping, and automate d</text>
+      
+      <!-- time -->
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">30m ago</text>
+    </g>
+
+    <g transform="translate(60, 132)">
+      <!-- bullet point branch dot -->
+      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
+      
+      <!-- sha -->
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#1b0c154</text>
+      
+      <!-- repo chip -->
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[en-peyar]</text>
+      
+      <!-- message -->
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat: migrate Thirukkural API to kural.codewithram.dev &amp; adapt section/chapt</text>
+      
+      <!-- time -->
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">36m ago</text>
+    </g>
+
+    <g transform="translate(60, 158)">
+      <!-- bullet point branch dot -->
+      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
+      
+      <!-- sha -->
       <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#e906579</text>
       
       <!-- repo chip -->
@@ -51,13 +105,13 @@
       <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">docs: add link to blog post story behind DisPlay</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">4h ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">8d ago</text>
     </g>
 
-    <g transform="translate(60, 106)">
+    <g transform="translate(60, 184)">
       <!-- bullet point branch dot -->
       <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0"/>
       
       <!-- sha -->
       <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#6d09d15</text>
@@ -69,61 +123,7 @@
       <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix: ban raw textbook dictionary nouns and enforce coined brand evolutions f</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">8h ago</text>
-    </g>
-
-    <g transform="translate(60, 132)">
-      <!-- bullet point branch dot -->
-      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
-      
-      <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#2b88f96</text>
-      
-      <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[en-peyar]</text>
-      
-      <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix: prevent JSON.parse syntax errors on non-JSON/HTML error responses</text>
-      
-      <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">8h ago</text>
-    </g>
-
-    <g transform="translate(60, 158)">
-      <!-- bullet point branch dot -->
-      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
-      
-      <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#e458ced</text>
-      
-      <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[en-peyar]</text>
-      
-      <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">docs: update README.md and CONTRIBUTING.md with accurate tech stack, env set</text>
-      
-      <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">8h ago</text>
-    </g>
-
-    <g transform="translate(60, 184)">
-      <!-- bullet point branch dot -->
-      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0"/>
-      
-      <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#81b8f91</text>
-      
-      <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[en-peyar]</text>
-      
-      <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat: overhaul name generation with quality-first prompts, thinking field, T</text>
-      
-      <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">8h ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">8d ago</text>
     </g>
 
   <!-- mini terminal command display -->
