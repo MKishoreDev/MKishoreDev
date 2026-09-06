@@ -1,4 +1,4 @@
-<!-- quote: i think programming is very much a religious experience for a lot of people. | author: gary kildall -->
+<!-- quote: first, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. i am, after all, a programmer by background, and optimism is an occupational disease of our craft. | author: fred brooks -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -35,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="78">i think programming is very much a religious experience for a lot of</tspan><tspan x="600" y="102">people.</tspan>
+    <tspan x="600" y="68">first, my wife, my colleagues, and my editors find me to err far more</tspan><tspan x="600" y="92">often in optimism than in pessimism. i am, after all, a programmer by</tspan><tspan x="600" y="116">background, and optimism is an occupational disease of our craft.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── gary kildall ──
+    ── fred brooks ──
   </text>
 </svg>
