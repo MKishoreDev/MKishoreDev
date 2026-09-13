@@ -42,16 +42,16 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#40ea2fb</text>
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#d03c3a3</text>
       
       <!-- repo chip -->
       <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
       
       <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat(viral): add LinkedIn Bro corporate satire tone, trending tone categorie</text>
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Implement Japanese precision Kaizen system, Hanko seal stamp, Kaizen Loop ti</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">1m ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">3h ago</text>
     </g>
 
     <g transform="translate(60, 106)">
@@ -60,16 +60,16 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#be99fc0</text>
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#7aa0bfa</text>
       
       <!-- repo chip -->
       <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
       
       <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix(ui): enhance mobile responsiveness, remove manual pwa button, and add 1-</text>
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">Add viral Roast My Draft tone, 1-click Post to X, and transformation deep li</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">4m ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">3h ago</text>
     </g>
 
     <g transform="translate(60, 132)">
@@ -78,16 +78,16 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#8c0f0d9</text>
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#0bdf2c0</text>
       
       <!-- repo chip -->
       <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
       
       <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat(pwa): transform KaizenReply into an installable Web App (PWA) with Shar</text>
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat(domain): add CNAME and configuration for kaizenreply.js.org domain</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">7m ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">3h ago</text>
     </g>
 
     <g transform="translate(60, 158)">
@@ -96,16 +96,16 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#82d2e2a</text>
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#33a8ba2</text>
       
       <!-- repo chip -->
       <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
       
       <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix(models): fetch active Groq models dynamically with automatic fallback ch</text>
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat(meme): add dedicated Reality vs LinkedIn meme format, corporate transla</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">11m ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">3h ago</text>
     </g>
 
     <g transform="translate(60, 184)">
@@ -114,16 +114,16 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0"/>
       
       <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#b910ffe</text>
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#8b83963</text>
       
       <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[DisPlay]</text>
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
       
       <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix(tui): live real-time countdown timer &amp; active spoofer menu state</text>
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">style(kaizen): replace generic emojis with authentic Kaizen symbols, 5S fram</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">21h ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">3h ago</text>
     </g>
 
   <!-- mini terminal command display -->
