@@ -42,6 +42,78 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#40ea2fb</text>
+      
+      <!-- repo chip -->
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
+      
+      <!-- message -->
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat(viral): add LinkedIn Bro corporate satire tone, trending tone categorie</text>
+      
+      <!-- time -->
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">1m ago</text>
+    </g>
+
+    <g transform="translate(60, 106)">
+      <!-- bullet point branch dot -->
+      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
+      
+      <!-- sha -->
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#be99fc0</text>
+      
+      <!-- repo chip -->
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
+      
+      <!-- message -->
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix(ui): enhance mobile responsiveness, remove manual pwa button, and add 1-</text>
+      
+      <!-- time -->
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">4m ago</text>
+    </g>
+
+    <g transform="translate(60, 132)">
+      <!-- bullet point branch dot -->
+      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
+      
+      <!-- sha -->
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#8c0f0d9</text>
+      
+      <!-- repo chip -->
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
+      
+      <!-- message -->
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat(pwa): transform KaizenReply into an installable Web App (PWA) with Shar</text>
+      
+      <!-- time -->
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">7m ago</text>
+    </g>
+
+    <g transform="translate(60, 158)">
+      <!-- bullet point branch dot -->
+      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
+      
+      <!-- sha -->
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#82d2e2a</text>
+      
+      <!-- repo chip -->
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
+      
+      <!-- message -->
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix(models): fetch active Groq models dynamically with automatic fallback ch</text>
+      
+      <!-- time -->
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">11m ago</text>
+    </g>
+
+    <g transform="translate(60, 184)">
+      <!-- bullet point branch dot -->
+      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0"/>
+      
+      <!-- sha -->
       <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#b910ffe</text>
       
       <!-- repo chip -->
@@ -51,79 +123,7 @@
       <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix(tui): live real-time countdown timer &amp; active spoofer menu state</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">2h ago</text>
-    </g>
-
-    <g transform="translate(60, 106)">
-      <!-- bullet point branch dot -->
-      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
-      
-      <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#66c0d22</text>
-      
-      <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[DisPlay]</text>
-      
-      <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat(tui): interactive arrow-key selection, 60fps zero-flicker rendering &amp; i</text>
-      
-      <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">2h ago</text>
-    </g>
-
-    <g transform="translate(60, 132)">
-      <!-- bullet point branch dot -->
-      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
-      
-      <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#901fa45</text>
-      
-      <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[en-peyar]</text>
-      
-      <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix: resolve Google Search Console unparsable structured data JSON-LD syntax</text>
-      
-      <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">4d ago</text>
-    </g>
-
-    <g transform="translate(60, 158)">
-      <!-- bullet point branch dot -->
-      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
-      
-      <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#1b33475</text>
-      
-      <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[PretendAi]</text>
-      
-      <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix: make database initialization fail-safe with in-memory fallback to preve</text>
-      
-      <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">6d ago</text>
-    </g>
-
-    <g transform="translate(60, 184)">
-      <!-- bullet point branch dot -->
-      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0"/>
-      
-      <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#7cd58bc</text>
-      
-      <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[en-peyar]</text>
-      
-      <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix: resolve sticky header position on scroll using overflow-x clip</text>
-      
-      <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">6d ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">21h ago</text>
     </g>
 
   <!-- mini terminal command display -->
