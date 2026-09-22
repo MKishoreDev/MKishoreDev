@@ -149,18 +149,18 @@ Most of my work lives in public repositories — from developer tools and backen
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="33.3%" align="center" style="border: none; padding: 0;">
+      <a href="https://mkishore.is-a.dev/blog/nobody-knows-where-im-going">
+        <img src="./assets/blog-1.svg" alt="Nobody Knows Where I’m Going" width="100%"/>
+      </a>
+    </td>
+    <td width="33.3%" align="center" style="border: none; padding: 0;">
       <a href="https://mkishore.is-a.dev/blog/maybe-ill-regret-this-someday">
-        <img src="./assets/blog-1.svg" alt="Maybe I’ll Regret This Someday" width="100%"/>
+        <img src="./assets/blog-2.svg" alt="Maybe I’ll Regret This Someday" width="100%"/>
       </a>
     </td>
     <td width="33.3%" align="center" style="border: none; padding: 0;">
       <a href="https://mkishore.is-a.dev/blog/i-built-something-that-feels-illegal">
-        <img src="./assets/blog-2.svg" alt="I Built Something That Feels Illegal And This Is Why I Did It" width="100%"/>
-      </a>
-    </td>
-    <td width="33.3%" align="center" style="border: none; padding: 0;">
-      <a href="https://mkishore.is-a.dev/blog/how-i-built-this-portfolio">
-        <img src="./assets/blog-3.svg" alt="How I Built This Portfolio: Inspiration, Systems, and Behind the Code" width="100%"/>
+        <img src="./assets/blog-3.svg" alt="I Built Something That Feels Illegal And This Is Why I Did It" width="100%"/>
       </a>
     </td>
   </tr>
