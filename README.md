@@ -149,7 +149,7 @@ Most of my work lives in public repositories — from developer tools and backen
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="33.3%" align="center" style="border: none; padding: 0;">
-      <a href="https://mkishore.is-a.dev/blog/.">
+      <a href="https://mkishore.is-a.dev/blog/i-sent-an-email-to-someone-who-doesnt-exist">
         <img src="./assets/blog-1.svg" alt="I Sent an Email to Someone Who Doesn’t Exist" width="100%"/>
       </a>
     </td>
