@@ -204,11 +204,6 @@ Most of my work lives in public repositories — from developer tools and backen
   <img width="100%" src="https://streak-stats.demolab.com/?user=MKishoreDev&hide_border=true&background=0a0612&stroke=432874&ring=A78BFA&fire=E8D5B7&currStreakLabel=E8D5B7&sideNums=C9B8D9&currStreakNum=E8D5B7" alt="GitHub Streak Stats"/>
 </div>
 
-<!-- Activity Graph -->
-<div style="margin-bottom: 20px;">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MKishoreDev&bg_color=0a0612&color=E8D5B7&line=A78BFA&point=E8D5B7&area=true&area_color=432874&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph"/>
-</div>
-
 <!-- Trophy Stats -->
 <div style="margin-bottom: 20px;">
   <img width="100%" src="https://github-profile-trophy-unserori.vercel.app/?username=MKishoreDev&theme=darkhub&no-frame=true&column=8&margin-w=8&margin-h=8&title=Commits,PullRequest,Repositories,Stars,Followers,Issues,Experience,Joined2020" alt="GitHub Trophy Stats"/>
