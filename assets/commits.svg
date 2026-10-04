@@ -42,6 +42,42 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#6d67039</text>
+      
+      <!-- repo chip -->
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[kagunebin-pypi]</text>
+      
+      <!-- message -->
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat(sdk): release v1.0.1 with custom exception hierarchy, async support, ex</text>
+      
+      <!-- time -->
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">5h ago</text>
+    </g>
+
+    <g transform="translate(60, 106)">
+      <!-- bullet point branch dot -->
+      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
+      
+      <!-- sha -->
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#3fc7a84</text>
+      
+      <!-- repo chip -->
+      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaguneBin]</text>
+      
+      <!-- message -->
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat(core): modernize FastAPI backend with CORS, Pydantic v2 validation, saf</text>
+      
+      <!-- time -->
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">5h ago</text>
+    </g>
+
+    <g transform="translate(60, 132)">
+      <!-- bullet point branch dot -->
+      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
+      
+      <!-- sha -->
       <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#3a78b07</text>
       
       <!-- repo chip -->
@@ -51,10 +87,10 @@
       <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat(docs): release v2 with Cloudflare migration, edge routing, and enhanced</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">3h ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">17h ago</text>
     </g>
 
-    <g transform="translate(60, 106)">
+    <g transform="translate(60, 158)">
       <!-- bullet point branch dot -->
       <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
@@ -69,13 +105,13 @@
       <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat(docs): release v2 with custom exception hierarchy, verify method, and u</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">3h ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">17h ago</text>
     </g>
 
-    <g transform="translate(60, 132)">
+    <g transform="translate(60, 184)">
       <!-- bullet point branch dot -->
       <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
+      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0"/>
       
       <!-- sha -->
       <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#0065d1e</text>
@@ -88,42 +124,6 @@
       
       <!-- time -->
       <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">1d ago</text>
-    </g>
-
-    <g transform="translate(60, 158)">
-      <!-- bullet point branch dot -->
-      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
-      
-      <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#247e280</text>
-      
-      <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
-      
-      <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix(ui): constrain brand logo to 32px, remove blocking preloader, and perfec</text>
-      
-      <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">1d ago</text>
-    </g>
-
-    <g transform="translate(60, 184)">
-      <!-- bullet point branch dot -->
-      <circle cx="10" cy="-5" r="3" fill="#a78bfa" opacity="0.8"/>
-      <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0"/>
-      
-      <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#3775104</text>
-      
-      <!-- repo chip -->
-      <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
-      
-      <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix(responsive): fix desk 3-panel layout, restore runKaizenAction fetch, str</text>
-      
-      <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">2d ago</text>
     </g>
 
   <!-- mini terminal command display -->
