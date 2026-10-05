@@ -1,4 +1,4 @@
-<!-- quote: part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before. | author: douglas crockford -->
+<!-- quote: maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer. | author: bjarne stroustrup -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -35,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="78">part of what makes programming difficult is most of the time we’re doing</tspan><tspan x="600" y="102">stuff we’ve never done before.</tspan>
+    <tspan x="600" y="78">maybe &quot;just one little global variable&quot; isn&apos;t too unmanageable, but that</tspan><tspan x="600" y="102">style leads to code that is useless except to its original programmer.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── douglas crockford ──
+    ── bjarne stroustrup ──
   </text>
 </svg>
