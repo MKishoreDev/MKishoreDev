@@ -42,16 +42,16 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#6fa58ce</text>
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#ad7d3fc</text>
       
       <!-- repo chip -->
       <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
       
       <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat: add kaizenreply.us.ci to CORS whitelist</text>
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">chore: remove mkishore.is-a.dev from allow_origins and redirects</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">12m ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">4h ago</text>
     </g>
 
     <g transform="translate(60, 106)">
@@ -60,16 +60,16 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#63bed28</text>
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#6f5c84d</text>
       
       <!-- repo chip -->
       <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
       
       <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix: serve clean root URL at https://kaizenreply.pages.dev/ without /static/</text>
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">docs: add Cloudflare migration rationale, .ci (Continuous Improvement) story</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">1h ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">4h ago</text>
     </g>
 
     <g transform="translate(60, 132)">
@@ -78,16 +78,16 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#a26c43f</text>
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#ef03724</text>
       
       <!-- repo chip -->
       <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
       
       <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat: open source release, test suite, Cloudflare Pages routing, and viral R</text>
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat: add domain redirect middleware and header forwarding</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">1h ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">4h ago</text>
     </g>
 
     <g transform="translate(60, 158)">
@@ -96,16 +96,16 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0.5"/>
       
       <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#5a60acd</text>
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#b0c88b8</text>
       
       <!-- repo chip -->
       <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
       
       <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix(llm): clean up decommissioned Groq models, prioritize live models, and e</text>
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">feat: accept X-Groq-Api-Key header across all AI endpoints</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">1h ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">4h ago</text>
     </g>
 
     <g transform="translate(60, 184)">
@@ -114,16 +114,16 @@
       <line x1="10" y1="5" x2="10" y2="18" stroke="#432874" stroke-width="1.2" opacity="0"/>
       
       <!-- sha -->
-      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#76a334e</text>
+      <text x="30" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#a78bfa">#bd2cc61</text>
       
       <!-- repo chip -->
       <text x="95" y="0" font-family="ui-monospace,monospace" font-size="12" fill="#8a7a9d">[KaizenReply]</text>
       
       <!-- message -->
-      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix(backend): import KaizenNote in main.py to prevent 500 error on response </text>
+      <text x="230" y="0" font-family="ui-monospace,monospace" font-size="12.5" fill="#f5e6d3">fix: report last_error_detail in 503 error</text>
       
       <!-- time -->
-      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">1h ago</text>
+      <text x="1080" y="0" font-family="ui-monospace,monospace" font-size="11.5" fill="#8a7a9d" text-anchor="end">4h ago</text>
     </g>
 
   <!-- mini terminal command display -->

@@ -1,40 +1,40 @@
 Recent Commits
 ================================================================================
-Generated: 2026-10-09 23:32:12 UTC+05:30
+Generated: 2026-10-10 04:33:08 UTC+05:30
 ================================================================================
 
 Commit 1
-  SHA:      6fa58ce
+  SHA:      ad7d3fc
   Repo:     KaizenReply
-  Message:  feat: add kaizenreply.us.ci to CORS whitelist
-  Time:     12m ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/6fa58ce7a811bad73b1f8f282d3037c0e8c1f800
+  Message:  chore: remove mkishore.is-a.dev from allow_origins and redirects
+  Time:     4h ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/ad7d3fc9a107d66377756bcdd29cc6004717581e
 
 Commit 2
-  SHA:      63bed28
+  SHA:      6f5c84d
   Repo:     KaizenReply
-  Message:  fix: serve clean root URL at https://kaizenreply.pages.dev/ without /static/
-  Time:     1h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/63bed28b3a9877fca1908a57da75040f091fcb8c
+  Message:  docs: add Cloudflare migration rationale, .ci (Continuous Improvement) story
+  Time:     4h ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/6f5c84d584c24a690a375a5393f5cb004b13f41d
 
 Commit 3
-  SHA:      a26c43f
+  SHA:      ef03724
   Repo:     KaizenReply
-  Message:  feat: open source release, test suite, Cloudflare Pages routing, and viral R
-  Time:     1h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/a26c43f9bc075bb3d513e0c4ef2688023ebf0c92
+  Message:  feat: add domain redirect middleware and header forwarding
+  Time:     4h ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/ef03724993ea5964aa731e6f65c2efc5ad4d19b1
 
 Commit 4
-  SHA:      5a60acd
+  SHA:      b0c88b8
   Repo:     KaizenReply
-  Message:  fix(llm): clean up decommissioned Groq models, prioritize live models, and e
-  Time:     1h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/5a60acd2d5134fcb29029d618a978784cca0a463
+  Message:  feat: accept X-Groq-Api-Key header across all AI endpoints
+  Time:     4h ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/b0c88b80b852982f844ba02f3e0734b8e1a4d833
 
 Commit 5
-  SHA:      76a334e
+  SHA:      bd2cc61
   Repo:     KaizenReply
-  Message:  fix(backend): import KaizenNote in main.py to prevent 500 error on response 
-  Time:     1h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/76a334e82115bed2ea891a08f48fb8ce4ae55b8a
+  Message:  fix: report last_error_detail in 503 error
+  Time:     4h ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/bd2cc617d59c0a2b1a5277722ec53cc1e068afc0
 
