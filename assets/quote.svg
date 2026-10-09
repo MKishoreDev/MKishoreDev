@@ -1,4 +1,4 @@
-<!-- quote: maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer. | author: bjarne stroustrup -->
+<!-- quote: all too many of our software systems are, architecturally, little more than shantytowns. | author: joseph yoder (computer scientist) -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -35,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="78">maybe &quot;just one little global variable&quot; isn&apos;t too unmanageable, but that</tspan><tspan x="600" y="102">style leads to code that is useless except to its original programmer.</tspan>
+    <tspan x="600" y="78">all too many of our software systems are, architecturally, little more</tspan><tspan x="600" y="102">than shantytowns.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── bjarne stroustrup ──
+    ── joseph yoder (computer scientist) ──
   </text>
 </svg>
