@@ -1,40 +1,40 @@
 Recent Commits
 ================================================================================
-Generated: 2026-10-10 10:09:19 UTC+05:30
+Generated: 2026-10-10 16:28:05 UTC+05:30
 ================================================================================
 
 Commit 1
-  SHA:      de34c0a
+  SHA:      9154fd1
   Repo:     KaizenReply
-  Message:  chore: clean up dead code, unused variables, duplicate files, and unreferenc
-  Time:     27m ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/de34c0a75526a3ee4384ee4e23475ce3f72c4f49
+  Message:  fix(pwa): deploy manifest.json and sw.js to root with _headers for Cloudflar
+  Time:     3h ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/9154fd1d9147c927333486096cf21334e67f92f6
 
 Commit 2
-  SHA:      ad7d3fc
+  SHA:      39bf252
   Repo:     KaizenReply
-  Message:  chore: remove mkishore.is-a.dev from allow_origins and redirects
-  Time:     10h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/ad7d3fc9a107d66377756bcdd29cc6004717581e
+  Message:  fix(pwa): resolve Chrome installability failures by fixing 404 in sw cache, 
+  Time:     3h ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/39bf252a6d081717da58974dc5f6315f57507683
 
 Commit 3
-  SHA:      6f5c84d
+  SHA:      c477745
   Repo:     KaizenReply
-  Message:  docs: add Cloudflare migration rationale, .ci (Continuous Improvement) story
-  Time:     10h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/6f5c84d584c24a690a375a5393f5cb004b13f41d
+  Message:  fix(responsive): eliminate header/desk horizontal overflow and replace black
+  Time:     3h ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/c477745120cfbd90b255bbf50a38aa14896afea0
 
 Commit 4
-  SHA:      ef03724
+  SHA:      6567418
   Repo:     KaizenReply
-  Message:  feat: add domain redirect middleware and header forwarding
-  Time:     10h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/ef03724993ea5964aa731e6f65c2efc5ad4d19b1
+  Message:  feat(pwa): clarify and emphasize Android WebAPK support with dedicated multi
+  Time:     3h ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/6567418624202e794da0b8d31ce69b26550bf5cb
 
 Commit 5
-  SHA:      b0c88b8
+  SHA:      a5b7b99
   Repo:     KaizenReply
-  Message:  feat: accept X-Groq-Api-Key header across all AI endpoints
-  Time:     10h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/b0c88b80b852982f844ba02f3e0734b8e1a4d833
+  Message:  feat: enhance everyday web and app UX with PWA install prompts, draft auto-r
+  Time:     3h ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/a5b7b9902a445d0556130de9f77b4b85909690bb
 

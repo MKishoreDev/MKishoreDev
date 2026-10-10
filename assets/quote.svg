@@ -1,4 +1,4 @@
-<!-- quote: every good work of software starts by scratching a developer’s personal itch. | author: eric s. raymond -->
+<!-- quote: the path to the ceo's office should not be through the cfo's office, and it should not be through the marketing department. it needs to be through engineering and design. | author: elon musk -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -35,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="78">every good work of software starts by scratching a developer’s personal</tspan><tspan x="600" y="102">itch.</tspan>
+    <tspan x="600" y="68">the path to the ceo&apos;s office should not be through the cfo&apos;s office, and</tspan><tspan x="600" y="92">it should not be through the marketing department. it needs to be</tspan><tspan x="600" y="116">through engineering and design.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── eric s. raymond ──
+    ── elon musk ──
   </text>
 </svg>
