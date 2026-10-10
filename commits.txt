@@ -1,40 +1,40 @@
 Recent Commits
 ================================================================================
-Generated: 2026-10-10 16:28:05 UTC+05:30
+Generated: 2026-10-10 21:40:09 UTC+05:30
 ================================================================================
 
 Commit 1
+  SHA:      0c1e790
+  Repo:     KaizenReply
+  Message:  refactor: eliminate dead canvas helpers, redline diff, and align showcase/sw
+  Time:     4m ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/0c1e790f4dc5fb48598127d93a97009942a9aa3a
+
+Commit 2
+  SHA:      6cd0bc1
+  Repo:     KaizenReply
+  Message:  refactor(ui): remove generic shareable card clutter, keeping exclusively the
+  Time:     14m ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/6cd0bc1a6efdc033480a86908e508f6ac8996006
+
+Commit 3
+  SHA:      4c78c32
+  Repo:     KaizenReply
+  Message:  feat(meme): integrate custom Reality vs LinkedIn meme card template with can
+  Time:     19m ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/4c78c3231183a68cb6cbbb4b27e1e9e230f5738e
+
+Commit 4
+  SHA:      f82b7cf
+  Repo:     KaizenReply
+  Message:  feat(satire): upgrade LinkedIn Bro to v3.0 Reality vs LinkedIn Satire Engine
+  Time:     29m ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/f82b7cf364dd2cce924c9c791900c21bfb078450
+
+Commit 5
   SHA:      9154fd1
   Repo:     KaizenReply
   Message:  fix(pwa): deploy manifest.json and sw.js to root with _headers for Cloudflar
-  Time:     3h ago
+  Time:     8h ago
   URL:      https://github.com/MKishoreDev/KaizenReply/commit/9154fd1d9147c927333486096cf21334e67f92f6
-
-Commit 2
-  SHA:      39bf252
-  Repo:     KaizenReply
-  Message:  fix(pwa): resolve Chrome installability failures by fixing 404 in sw cache, 
-  Time:     3h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/39bf252a6d081717da58974dc5f6315f57507683
-
-Commit 3
-  SHA:      c477745
-  Repo:     KaizenReply
-  Message:  fix(responsive): eliminate header/desk horizontal overflow and replace black
-  Time:     3h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/c477745120cfbd90b255bbf50a38aa14896afea0
-
-Commit 4
-  SHA:      6567418
-  Repo:     KaizenReply
-  Message:  feat(pwa): clarify and emphasize Android WebAPK support with dedicated multi
-  Time:     3h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/6567418624202e794da0b8d31ce69b26550bf5cb
-
-Commit 5
-  SHA:      a5b7b99
-  Repo:     KaizenReply
-  Message:  feat: enhance everyday web and app UX with PWA install prompts, draft auto-r
-  Time:     3h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/a5b7b9902a445d0556130de9f77b4b85909690bb
 

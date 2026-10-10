@@ -1,4 +1,4 @@
-<!-- quote: the path to the ceo's office should not be through the cfo's office, and it should not be through the marketing department. it needs to be through engineering and design. | author: elon musk -->
+<!-- quote: the design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a calculus, and upon this foundation to establish the science of logic and construct its method. | author: george boole -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -35,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="68">the path to the ceo&apos;s office should not be through the cfo&apos;s office, and</tspan><tspan x="600" y="92">it should not be through the marketing department. it needs to be</tspan><tspan x="600" y="116">through engineering and design.</tspan>
+    <tspan x="600" y="68">the design of the following treatise is to investigate the fundamental</tspan><tspan x="600" y="92">laws of those operations of the mind by which reasoning is performed; to</tspan><tspan x="600" y="116">give expression to them in the symbolical language of a calculus, and…</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── elon musk ──
+    ── george boole ──
   </text>
 </svg>
