@@ -1,4 +1,4 @@
-<!-- quote: what we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form. | author: dennis ritchie -->
+<!-- quote: how do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure? | author: edsger w. dijkstra -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -35,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="78">what we wanted to preserve was not just a good environment in which to</tspan><tspan x="600" y="102">do programming, but a system around which fellowship could form.</tspan>
+    <tspan x="600" y="68">how do we convince people that in programming simplicity and clarity —</tspan><tspan x="600" y="92">in short: what mathematicians call &quot;elegance&quot; — are not a dispensable</tspan><tspan x="600" y="116">luxury, but a crucial matter that decides between success and failure?</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── dennis ritchie ──
+    ── edsger w. dijkstra ──
   </text>
 </svg>
