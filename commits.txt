@@ -1,40 +1,40 @@
 Recent Commits
 ================================================================================
-Generated: 2026-10-24 19:46:55 UTC+05:30
+Generated: 2026-10-26 22:03:03 UTC+05:30
 ================================================================================
 
 Commit 1
-  SHA:      1854f80
-  Repo:     KaizenReply
-  Message:  feat(ui): fixed header, uncrowded zen desk, obsidian quote card, and user-pr
-  Time:     3h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/1854f80ae9f271dc5622dd64032868e98519e518
+  SHA:      d005a16
+  Repo:     website
+  Message:  feat: enhance device responsiveness, smooth transitions, Search Console SEO 
+  Time:     2h ago
+  URL:      https://github.com/Ezhunai/website/commit/d005a1655cab29ac6beffc4706eebb19303628e3
 
 Commit 2
-  SHA:      1026555
-  Repo:     KaizenReply
-  Message:  feat(ui): Apple x Japan dark obsidian palette (zero blue), uncluttered desk 
-  Time:     4h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/1026555cd0ecdaa0c11e0a9ed59662eb65c6d34b
+  SHA:      7dbc5ad
+  Repo:     website
+  Message:  docs: modernize README with adaptive theme poster, editorial badges and typo
+  Time:     2h ago
+  URL:      https://github.com/Ezhunai/website/commit/7dbc5ad77157bd5f9e8a49b4f0e6a7730b96a3aa
 
 Commit 3
-  SHA:      70dff17
-  Repo:     KaizenReply
-  Message:  feat: Apple-quality UI — page load animation, kaizen loader, stagger reveals
-  Time:     4h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/70dff179a284f3fecf59b15258abe1dff1c98fd1
+  SHA:      802d110
+  Repo:     .github
+  Message:  feat(profile): enhance editorial typography, adaptive posters and curated ba
+  Time:     2h ago
+  URL:      https://github.com/Ezhunai/.github/commit/802d1102bff336664b77330c540230d2874ab570
 
 Commit 4
-  SHA:      8f38a27
-  Repo:     KaizenReply
-  Message:  chore: clean repo, rewrite README, strip emoji from app.js, add scroll heade
-  Time:     4h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/8f38a274fd3620dea68084b79816dbf7f892ebb4
+  SHA:      5cb6f3f
+  Repo:     website
+  Message:  fix: revert 404 animation to clean static layout and fix image URLs with abs
+  Time:     2h ago
+  URL:      https://github.com/Ezhunai/website/commit/5cb6f3f1790aa61333731e6e5c954adad4938730
 
 Commit 5
-  SHA:      678b136
-  Repo:     KaizenReply
-  Message:  polish: official UI refinements — smooth typography, no emojis, refined inte
-  Time:     5h ago
-  URL:      https://github.com/MKishoreDev/KaizenReply/commit/678b136727fdc42f7177fd947b7b598d2c83dc25
+  SHA:      0ace44d
+  Repo:     .github
+  Message:  fix: use absolute raw GitHub URL for brand poster in organization profile
+  Time:     2h ago
+  URL:      https://github.com/Ezhunai/.github/commit/0ace44d324ae998af881b285650fe68ef283610c
 
