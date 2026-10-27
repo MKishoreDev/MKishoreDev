@@ -1,40 +1,40 @@
 Recent Commits
 ================================================================================
-Generated: 2026-10-26 22:03:03 UTC+05:30
+Generated: 2026-10-28 01:20:42 UTC+05:30
 ================================================================================
 
 Commit 1
+  SHA:      6bcc312
+  Repo:     website
+  Message:  perf: self-host DM Sans font, optimize mobile background & responsive hero s
+  Time:     2h ago
+  URL:      https://github.com/Ezhunai/website/commit/6bcc312d7b746f9f02e3a61f60ac5746ae37c91b
+
+Commit 2
+  SHA:      4818411
+  Repo:     website
+  Message:  perf: eliminate render-blocking fonts, optimize LCP image delivery, and reso
+  Time:     2h ago
+  URL:      https://github.com/Ezhunai/website/commit/481841113cdb80ba24692456b4382fb30628c46c
+
+Commit 3
+  SHA:      6d55271
+  Repo:     website
+  Message:  fix(seo): add root favicon.ico and 48px square favicons for Google Search re
+  Time:     2h ago
+  URL:      https://github.com/Ezhunai/website/commit/6d552717d7c8fca9ee41dccea24fd3fc0508e331
+
+Commit 4
   SHA:      d005a16
   Repo:     website
   Message:  feat: enhance device responsiveness, smooth transitions, Search Console SEO 
-  Time:     2h ago
+  Time:     1d ago
   URL:      https://github.com/Ezhunai/website/commit/d005a1655cab29ac6beffc4706eebb19303628e3
 
-Commit 2
+Commit 5
   SHA:      7dbc5ad
   Repo:     website
   Message:  docs: modernize README with adaptive theme poster, editorial badges and typo
-  Time:     2h ago
+  Time:     1d ago
   URL:      https://github.com/Ezhunai/website/commit/7dbc5ad77157bd5f9e8a49b4f0e6a7730b96a3aa
-
-Commit 3
-  SHA:      802d110
-  Repo:     .github
-  Message:  feat(profile): enhance editorial typography, adaptive posters and curated ba
-  Time:     2h ago
-  URL:      https://github.com/Ezhunai/.github/commit/802d1102bff336664b77330c540230d2874ab570
-
-Commit 4
-  SHA:      5cb6f3f
-  Repo:     website
-  Message:  fix: revert 404 animation to clean static layout and fix image URLs with abs
-  Time:     2h ago
-  URL:      https://github.com/Ezhunai/website/commit/5cb6f3f1790aa61333731e6e5c954adad4938730
-
-Commit 5
-  SHA:      0ace44d
-  Repo:     .github
-  Message:  fix: use absolute raw GitHub URL for brand poster in organization profile
-  Time:     2h ago
-  URL:      https://github.com/Ezhunai/.github/commit/0ace44d324ae998af881b285650fe68ef283610c
 
