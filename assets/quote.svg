@@ -1,4 +1,4 @@
-<!-- quote: walking on water and developing software from a specification are easy if both are frozen. | author: edward v. berard -->
+<!-- quote: what a computer is to me is it's the most remarkable tool that we have ever come up with. it's the equivalent of a bicycle for our minds. | author: steve jobs -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -35,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="78">walking on water and developing software from a specification are easy</tspan><tspan x="600" y="102">if both are frozen.</tspan>
+    <tspan x="600" y="78">what a computer is to me is it&apos;s the most remarkable tool that we have</tspan><tspan x="600" y="102">ever come up with. it&apos;s the equivalent of a bicycle for our minds.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── edward v. berard ──
+    ── steve jobs ──
   </text>
 </svg>
