@@ -1,4 +1,4 @@
-<!-- quote: simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated. | author: edsger w. dijkstra -->
+<!-- quote: i think the best way to supervise is by personal example and by frequent code reviews. | author: charles simonyi -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="developer quote card">
   <title>Developer Quote Card</title>
   <desc>A fresh programming quote, updated hourly by GitHub Actions.</desc>
@@ -35,10 +35,10 @@
 
   <text text-anchor="middle" font-family="'Lora',Georgia,serif"
         font-size="20" font-style="italic" fill="#f5e6d3">
-    <tspan x="600" y="78">simplicity and elegance are unpopular because they require hard work and</tspan><tspan x="600" y="102">discipline to achieve and education to be appreciated.</tspan>
+    <tspan x="600" y="78">i think the best way to supervise is by personal example and by frequent</tspan><tspan x="600" y="102">code reviews.</tspan>
   </text>
   <text x="600" y="138" text-anchor="middle" font-family="ui-monospace,monospace"
         font-size="11" fill="#8a7a9d" letter-spacing="3">
-    ── edsger w. dijkstra ──
+    ── charles simonyi ──
   </text>
 </svg>
