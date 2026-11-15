@@ -1,40 +1,40 @@
 Recent Commits
 ================================================================================
-Generated: 2026-11-10 01:57:46 UTC+05:30
+Generated: 2026-11-15 19:01:37 UTC+05:30
 ================================================================================
 
 Commit 1
-  SHA:      0f1f8cb
-  Repo:     workshop
-  Message:  Merge pull request #1 from MKishoreDev/beta
-  Time:     6h ago
-  URL:      https://github.com/MKishoreDev/workshop/commit/0f1f8cb0148528b3f87ea708a75c38db616b363f
+  SHA:      dde5244
+  Repo:     kisukisu
+  Message:  fix(stealth): ensure taskbar hiding applies SWP_FRAMECHANGED and withdraws p
+  Time:     1h ago
+  URL:      https://github.com/MKishoreDev/kisukisu/commit/dde5244f60ff06d10b0cfe116775f9f7020d25d9
 
 Commit 2
-  SHA:      ab142f3
-  Repo:     workshop
-  Message:  Delete index.html
-  Time:     6h ago
-  URL:      https://github.com/MKishoreDev/workshop/commit/ab142f3f18e8ae2302306c07a9118f3584339479
+  SHA:      fafefb7
+  Repo:     kisukisu
+  Message:  fix(reader): scroll exactly one line per down/up key press
+  Time:     1h ago
+  URL:      https://github.com/MKishoreDev/kisukisu/commit/fafefb748296f00b7940ce45b0289116888bc5bf
 
 Commit 3
-  SHA:      5fd4236
-  Repo:     workshop
-  Message:  feat: sturydo hackathon sprint html file
-  Time:     7h ago
-  URL:      https://github.com/MKishoreDev/workshop/commit/5fd4236108df73a064b3b90bca3e662259a6c574
+  SHA:      62f36cc
+  Repo:     kisukisu
+  Message:  fix(reader): remove unsupported -yscrollincrement from tk.Text
+  Time:     2h ago
+  URL:      https://github.com/MKishoreDev/kisukisu/commit/62f36ccebae24dbd322c0ed240dda88f8a7adc72
 
 Commit 4
-  SHA:      e007df9
-  Repo:     cat-exe
-  Message:  fix(favicon): add curling pixel-art tail to cat silhouette
-  Time:     3d ago
-  URL:      https://github.com/MKishoreDev/cat-exe/commit/e007df9820423683d9a45d5d1e76f7f074a9c7a4
+  SHA:      cc32663
+  Repo:     kisukisu
+  Message:  fix(ui): raise and focus LibraryWindow on launch
+  Time:     2h ago
+  URL:      https://github.com/MKishoreDev/kisukisu/commit/cc3266314e36b218e31a4eeb06afc63c4364bb68
 
 Commit 5
-  SHA:      f5c3955
-  Repo:     cat-exe
-  Message:  feat: initial commit of CAT.EXE — pixel-art endless runner
-  Time:     3d ago
-  URL:      https://github.com/MKishoreDev/cat-exe/commit/f5c3955ce550b14c319470ff5c89be610c120b81
+  SHA:      fbe09d1
+  Repo:     kisukisu
+  Message:  docs: add SignPath Foundation code signing attribution in download section
+  Time:     2h ago
+  URL:      https://github.com/MKishoreDev/kisukisu/commit/fbe09d1fc184e3ea8cff461aa99fbec670ebe910
 
