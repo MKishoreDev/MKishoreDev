@@ -1,40 +1,40 @@
 Recent Commits
 ================================================================================
-Generated: 2026-11-15 19:01:37 UTC+05:30
+Generated: 2026-11-26 10:23:34 UTC+05:30
 ================================================================================
 
 Commit 1
-  SHA:      dde5244
-  Repo:     kisukisu
-  Message:  fix(stealth): ensure taskbar hiding applies SWP_FRAMECHANGED and withdraws p
-  Time:     1h ago
-  URL:      https://github.com/MKishoreDev/kisukisu/commit/dde5244f60ff06d10b0cfe116775f9f7020d25d9
+  SHA:      98c0a28
+  Repo:     KaizenReply
+  Message:  docs(seo): restore KaizenReply slogan, highlight Kaizen 5S principles, and e
+  Time:     38m ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/98c0a28fb090591e4bc41fefceae446e47430ae7
 
 Commit 2
-  SHA:      fafefb7
-  Repo:     kisukisu
-  Message:  fix(reader): scroll exactly one line per down/up key press
-  Time:     1h ago
-  URL:      https://github.com/MKishoreDev/kisukisu/commit/fafefb748296f00b7940ce45b0289116888bc5bf
+  SHA:      5c00f2e
+  Repo:     KaizenReply
+  Message:  feat(seo): update banner/OG image, add robots.txt, sitemap.xml, llms.txt, ll
+  Time:     40m ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/5c00f2e7fc50f33477bddbb73392a5a74bed92aa
 
 Commit 3
-  SHA:      62f36cc
-  Repo:     kisukisu
-  Message:  fix(reader): remove unsupported -yscrollincrement from tk.Text
-  Time:     2h ago
-  URL:      https://github.com/MKishoreDev/kisukisu/commit/62f36ccebae24dbd322c0ed240dda88f8a7adc72
+  SHA:      8983d1e
+  Repo:     KaizenReply
+  Message:  chore: remove unused assets/docs, clean UI copy, and rewrite README
+  Time:     56m ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/8983d1eb33ca2f43ff413fb420ebf5768e3c0e9f
 
 Commit 4
-  SHA:      cc32663
-  Repo:     kisukisu
-  Message:  fix(ui): raise and focus LibraryWindow on launch
-  Time:     2h ago
-  URL:      https://github.com/MKishoreDev/kisukisu/commit/cc3266314e36b218e31a4eeb06afc63c4364bb68
+  SHA:      342015f
+  Repo:     KaizenReply
+  Message:  test(api): add security & validation tests and v2.0 changelog
+  Time:     1h ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/342015f593d9174f7caaca2d913a144683aad7c1
 
 Commit 5
-  SHA:      fbe09d1
-  Repo:     kisukisu
-  Message:  docs: add SignPath Foundation code signing attribution in download section
-  Time:     2h ago
-  URL:      https://github.com/MKishoreDev/kisukisu/commit/fbe09d1fc184e3ea8cff461aa99fbec670ebe910
+  SHA:      52a41ac
+  Repo:     KaizenReply
+  Message:  fix(pwa): update service worker cache assets and scope fetch handler to same
+  Time:     15h ago
+  URL:      https://github.com/MKishoreDev/KaizenReply/commit/52a41ac395498e526b427b1860e6f92c76c3ae16
 
